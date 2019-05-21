@@ -1,9 +1,13 @@
 ---
-title: "Contact"
-permalink: "/contact.html"
+title: "About Us"
+permalink: "/about.html"
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
+SingleSpark is a platform dedicated to reporting the latest China labour news for global readers. 
+
+
+<form action="https://formspree.io/{{site.email}}" method="POST">
+<p class="mb-4"><strong>Want to chat with us?</strong></p>
 <p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
 <div class="form-group row">
 <div class="col-md-6">
