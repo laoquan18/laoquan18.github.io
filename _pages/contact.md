@@ -4,6 +4,7 @@ permalink: "/about.html"
 ---
 
 SingleSpark is a platform dedicated to reporting the latest China labour news for global readers. 
+<br><br>
 
 
 <form action="https://formspree.io/{{site.email}}" method="POST">
