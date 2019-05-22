@@ -216,10 +216,10 @@ a.text-dark:hover {
 	border:0;
 	text-transform:none;
 	box-shadow:0 10px 25px 0 rgba(0,0,0,0.3);
-  padding: 0.5rem 5rem;
+  padding: 0.5rem 1rem;
   margin: 0.125rem 0 0;
-  font-size: 1rem;
-  color: #212529;
+  font-size: 0.85rem;
+  color: #FFFFFF;
   text-align: left;
   list-style: none;
   background-color: #ff8533;
@@ -234,7 +234,7 @@ a.text-dark:hover {
   border-top: 1px solid #e9ecef; }
 
   .dropdown-item:hover, .dropdown-item:focus {
-    color: #16181b;
+    color: #FFFFFF;
     text-decoration: none;
     background-color: #ff944d; }
 
@@ -243,14 +243,10 @@ a.text-dark:hover {
     text-decoration: none;
     background-color: #03a87c; }
 
-  .dropdown-item.disabled, .dropdown-item:disabled {
-    color: #6c757d;
-    background-color: transparent; }
-
 .dropdown-item-text {
   display: block;
   padding: 0.45rem 1.5rem;
-color: #212529; }
+color: #FFFFFF; }
 
 @media (min-width:768px) {
 	.dropdown-menu:before {
