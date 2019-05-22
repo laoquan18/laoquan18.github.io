@@ -1,17 +1,17 @@
-<!--  Replace menu links here -->
+{% assign url_parts = page.url | split: '/' %}
+{% assign url_parts_size = url_parts | size %}
+{% assign rm = url_parts | last %}
+{% assign base_url = page.url | replace: rm %}
 
-<li class="nav-item">
-<a class="nav-link" href="{{site.baseurl}}/index.html">Home</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="{{site.baseurl}}/news.html">News</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="{{site.baseurl}}/issues.html">Issues</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="{{site.baseurl}}/profiles.html">Detained Activists</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="{{site.baseurl}}/about.html">About Us</a>
-</li>
+<ul>
+{% for node in site.pages %}
+  {% if node.url contains base_url %}
+    {% assign node_url_parts = node.url | split: '/' %}
+    {% assign node_url_parts_size = node_url_parts | size %}
+    {% assign filename = node_url_parts | last %}
+    {% if url_parts_size == node_url_parts_size and filename != 'index.html' %}
+      <li><a href='{{node.url}}'>{{node.title}}</a></li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>
