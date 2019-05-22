@@ -1,18 +1,29 @@
 <!--  Replace menu links here -->
 
-<li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/index.html">Home</a></li>
-<li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/news.html">News</a></li>
-<li class="dropdown"><a href="{{ site.baseurl }}/issues.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Issues<span class="caret"></span></a>
-    <ul class="dropdown-menu">
-        <li><a href="{{ site.baseurl }}/issues/jasic.html">Jasic</a></li>
-        <li><a href="{{ site.baseurl }}/issues/silicosis.html">Silicosis</a></li>
-    </ul>
-</li>
-<li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/detainees.html">Detained Activists</a></li>
-<li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/about.html">About Us</a></li>
-<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Language<span class="caret"></span></a>
-    <ul class="dropdown-menu">
-        <li><a href="{{ site.baseurl }}/issues/index.html">English</a></li>
-        <li><a href="{{ site.baseurl }}/issues/index_zh.html">简体中文</a></li>
-    </ul>
-</li>
+        {% assign links = site.data.navigation %}
+        {% for link in links %}
+            {% assign class = nil %}
+            {% if page.url contains link.url %}
+                {% assign class = 'active' %}
+            {% endif %}
+            {% if link.sublinks %}
+                <li class="dropdown {{ class }}">
+                    <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        {% for sublink in link.sublinks %}
+                            {% if sublink.title == 'separator' %}
+                                <li role="separator" class="divider"></li>
+                            {% else %}
+                                <li>
+                                    <a href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+                                </li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                </li>
+            {% else %}
+                <li class="{{ class }}">
+                    <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
