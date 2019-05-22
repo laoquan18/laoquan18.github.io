@@ -192,15 +192,15 @@ a.text-dark:hover {
 	font-weight:400;
 }
 .navbar .highlight .nav-link {
-	color:#03a87c !important;
-	border:1px solid #03a87c;
+	color:rgba(0,0,0,0.5) !important;
+	border:1px solid #ff9933;
 	padding:0.3rem 1rem;
 	border-radius:3px;
 	font-size:.93rem;
 }
 .navbar .highlight .nav-link:hover {
-	background:#03a87c;
-	color:#fff !important;
+	background:#ff944d;
+	color:rgba(0,0,0,0.9) !important;
 }
 .navbar-brand {
 	margin-right:2rem;
@@ -364,13 +364,13 @@ a.text-dark:hover {
 	background-color:rgba(23,29,90,0.5);
 }
 .bg-primary {
-	fill:#03a87c !important;
+	fill:#ff6600 !important;
 }
 .bg-secondary {
-	fill:#7832e2 !important;
+	fill:#ff9933 !important;
 }
 .bg-success {
-	fill:#03a87c !important;
+	fill:#ff6600 !important;
 }
 .bg-info {
 	fill:#09ebaf !important;
