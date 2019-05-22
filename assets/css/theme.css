@@ -217,7 +217,7 @@ a.text-dark:hover {
 	border:0;
 	text-transform:none;
 	box-shadow:0 10px 25px 0 rgba(0,0,0,0.3);
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 0.85rem;
   color: rgba(0,0,0,0.5);
