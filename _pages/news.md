@@ -1,14 +1,13 @@
 ---
 title: "News"
-layout: default
 permalink: "/news.html"
 ---
 
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
-         <h1 class="font-weight-bold title h6 text-uppercase mb-4">News</h1>
 
+            
         {% for post in site.tags.news %}
         {% if post.title != null %}
           {% if group == null or group == post.group %}
