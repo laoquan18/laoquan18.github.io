@@ -1,3 +1,4 @@
+---
 layout: post
 title: Chinese Maoists join students in fight for workers’ rights at Jasic Technology
 date: 2019-05-24
