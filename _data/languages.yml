@@ -1,4 +1,6 @@
 en:
   label: English
+  suffix: ""
 zh:
   label: 中文
+  suffix: "_zh"
