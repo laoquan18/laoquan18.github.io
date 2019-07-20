@@ -1,11 +1,11 @@
 # Site
-name: 'SingleSpark'
-description: 'labour news from china'
+name: 'China Labor Crackdown Concern Group'
+description: 'over 100 labor activists affected in Chinas latest crackdown'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'singlespark'
-email: 'xinghuospark@protonmail.com'
+email: 'laoquan@protonmail.com'
 mailchimp-list: ''
 
 include: ["_pages"]
@@ -21,9 +21,9 @@ authors:
     Spark:
       name:           Spark
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Click FOLLOW to join me on Twitter!"
-      email:          xinghuospark@protonmail.com
-      twitter:        https://twitter.com/xinghuospark
+      bio:            
+      email:          laoquan@protonmail.com
+      twitter:        
 
  
 # Defaults
