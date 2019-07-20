@@ -2,7 +2,7 @@
 layout: post
 title: "图标范例"
 date: 2019-07-20
-tags: resources-zh, sticky-zh
+tags: [resources-zh, sticky-zh]
 image: images/infographic.jpg
 lang: zh
 lang-ref: 2019-07-20-infographic
