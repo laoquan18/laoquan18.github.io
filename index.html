@@ -81,7 +81,7 @@ layout: default
                     <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
                     </h2>
                     <p class="excerpt">
-                        {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 80 }}
+                        {{ second_post.excerpt | strip_html | strip_newlines | truncate: 80 }}
                     </p>
                     <small class="text-muted">
                         {{ second_post.date | date: '%b %d, %Y' }}
@@ -104,7 +104,7 @@ layout: default
                     <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
                     </h2>
                     <p class="excerpt">
-                        {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 80 }}
+                        {{ third_post.excerpt | strip_html | strip_newlines | truncate: 80 }}
                     </p>
                     <small class="text-muted">
                         {{ third_post.date | date: '%b %d, %Y' }}
@@ -127,7 +127,7 @@ layout: default
                     <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
                     </h2>
                     <p class="excerpt">
-                        {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 80 }}
+                        {{ fourth_post.excerpt | strip_html | strip_newlines | truncate: 80 }}
                     </p>
                     <small class="text-muted">
                         {{ fourth_post.date | date: '%b %d, %Y' }}
