@@ -48,6 +48,20 @@
               <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/news.html">News</a></li>
               <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/activists.html">Activists</a></li>
               <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/resources.html">Resources</a></li>
+                
+              {% assign posts=site.posts | where:"i18n-link", page.i18n-link | sort: 'lang' %}
+              {% if posts.size == 0 %}
+                {% assign posts=site.pages | where:"i18n-link", page.i18n-link | sort: 'lang' %}
+              {% endif %}
+
+              <li class="dropdown">
+                <a  class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Issues<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  {% for post in posts %}
+                    <li><a class="dropdown-item" href="{{ site.base-url }}{{ post.url }}">{{ site.data.languages[post.lang].label }}</a></li>
+                  {% endfor %}
+                </ul>
+              </li>
             </ul>
             <ul class="navbar-nav ml-auto d-flex align-items-center">
                 {% include search-lunr.html %}
