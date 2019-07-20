@@ -2,7 +2,7 @@
 layout: post
 title: "Example Infographic"
 date: 2019-07-20
-tags: resources, sticky
+tags: [resources, sticky]
 image: images/infographic.jpg
 lang: en
 lang-ref: 2019-07-20-infographic
