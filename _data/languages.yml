@@ -3,4 +3,4 @@ en:
   suffix: ""
 zh:
   label: 中文
-  suffix: "/zh"
+  suffix: "_zh"
