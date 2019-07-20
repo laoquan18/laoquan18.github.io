@@ -1,5 +1,7 @@
 ---
 title: "News"
+lang: en
+lang-ref: news
 permalink: "/news.html"
 ---
 
@@ -20,10 +22,6 @@ permalink: "/news.html"
         
 
         </div>
-        
-            <div class="col-md-4">
-        {% include sidebar-featured.html %}    
-    </div>
         
     </div>
 </div>
