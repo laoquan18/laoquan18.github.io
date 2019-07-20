@@ -39,15 +39,15 @@
 
 <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="{{ site.baseurl }}{{ site.data.languages[post.lang].suffix }}/index.html"><strong>{{ site.data.translations['sitename'][page.lang] }}</strong></a>
+        <a class="navbar-brand" href="{{ site.baseurl }}/index{{ site.data.languages[post.lang].suffix }}.html"><strong>{{ site.data.translations['sitename'][page.lang] }}</strong></a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
         <div class="navbar-collapse collapse" id="navbarColor02" style="">
             <ul class="navbar-nav mr-auto d-flex align-items-center">
-              <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}{{ site.data.languages[post.lang].suffix }}/news.html">{{ site.data.translations['news'][page.lang] }}</a></li>
-              <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}{{ site.data.languages[post.lang].suffix }}/activists.html">{{ site.data.translations['activists'][page.lang] }}</a></li>
-              <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}{{ site.data.languages[post.lang].suffix }}/resources.html">{{ site.data.translations['resources'][page.lang] }}</a></li>
+              <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/news{{ site.data.languages[post.lang].suffix }}.html">{{ site.data.translations['news'][page.lang] }}</a></li>
+              <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/activists{{ site.data.languages[post.lang].suffix }}.html">{{ site.data.translations['activists'][page.lang] }}</a></li>
+              <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/resources{{ site.data.languages[post.lang].suffix }}.html">{{ site.data.translations['resources'][page.lang] }}</a></li>
                 
               {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
               {% if posts.size == 0 %}
