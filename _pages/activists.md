@@ -1,6 +1,8 @@
 ---
 title: "2018-2019 Labor Crackdown Detainees"
-permalink: "/detainees.html"
+lang: en
+lang-ref: activists
+permalink: "/activists.html"
 ---
 
 <div class="container">
@@ -8,7 +10,7 @@ permalink: "/detainees.html"
         <div class="col-md-8">
             
             
-        {% for post in site.tags.detainees %}
+        {% for post in site.tags.activists %}
         {% if post.title != null %}
           {% if group == null or group == post.group %}
          
@@ -21,9 +23,6 @@ permalink: "/detainees.html"
 
         </div>
         
-            <div class="col-md-4">
-        {% include sidebar-featured.html %}    
-    </div>
         
     </div>
 </div>
