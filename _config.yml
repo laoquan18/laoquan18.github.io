@@ -1,12 +1,7 @@
 # Site
 name: 'China Labor Crackdown Concern Group'
 description: 'over 100 labor activists affected in Chinas latest crackdown'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-baseurl: ''
-disqus: 'singlespark'
 email: 'laoquan@protonmail.com'
-mailchimp-list: ''
 
 include: ["_pages"]
 permalink: /:title/
@@ -16,16 +11,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  
-authors:
-    Spark:
-      name:           Spark
-      avatar:         /assets/images/avatar1.jpg
-      bio:            
-      email:          laoquan@protonmail.com
-      twitter:        
-
- 
+   
 # Defaults
 defaults:
 
