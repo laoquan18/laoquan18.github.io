@@ -1,5 +1,5 @@
 ---
-title: "2018-2019 Labor Crackdown Detainees"
+title: "Victims of the 2018-2019 Labor Crackdown"
 lang: en
 lang-ref: activists
 permalink: "/activists.html"
