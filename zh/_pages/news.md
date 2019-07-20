@@ -10,7 +10,7 @@ permalink: "/news-zh.html"
         <div class="col-md-8">
 
             
-        {% for post in site.tags.news %}
+        {% for post in site.tags.news-zh %}
         {% if post.title != null %}
           {% if group == null or group == post.group %}
          
