@@ -2,7 +2,7 @@
 layout: post
 title: "王相宜"
 date: 2019-07-20
-tags: activists
+tags: activists-zh
 image: images/wangxiangyi.jpg
 lang: zh
 lang-ref: 2019-07-20-Wang-Xiangyi
