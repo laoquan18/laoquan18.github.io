@@ -2,7 +2,7 @@
 layout: post
 title: "沈梦雨"
 date: 2019-07-20
-tags: activists
+tags: activists-zh
 image: images/shenmengyu.jpg
 lang: zh
 lang-ref: 2019-07-20-Shen-Mengyu
