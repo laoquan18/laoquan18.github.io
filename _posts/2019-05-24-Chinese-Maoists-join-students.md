@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chinese Maoists join students in fight for workers’ rights at Jasic Technology
+title: "Chinese Maoists join students in fight for workers’ rights at Jasic Technology"
 date: 2019-05-24
 tags: news
 image: images/chinese-maoist.jpg
@@ -16,4 +16,4 @@ The Shenzhen, Guangdong province, company is a manufacturer of electronic weldin
 Seven Jasic worker representatives have been sacked, beaten and detained and 29 of their supporters arrested. They include family members, colleagues and a student.
 As of Tuesday night, 14 people – including a nursing mother, Zhang Zeying – were still in detention for allegedly picking quarrels and disrupting order.
 
-<div style="text-align:center"><img src="/images/2.jpg" width="90%"/><br>An intervention of Chinese university students in a Shenzhen labour rights dispute gained momentum when old guards from the country’s leading ultra-left group added their weight to the campaign. Photo: Mimi Lau</div>
+An intervention of Chinese university students in a Shenzhen labour rights dispute gained momentum when old guards from the country’s leading ultra-left group added their weight to the campaign. Photo: Mimi Lau</div>
