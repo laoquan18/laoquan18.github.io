@@ -3,7 +3,7 @@ layout: post
 title: "广东社工童菲菲突然失踪！港府重讲大湾区社工资历互联互通？"
 date: 2019-07-20
 tags: activists
-image: images/tongfeifei.jpg
+image: images/tongfeifei.png
 lang: zh
 lang-ref: 2019-07-20-Tong-Feifei
 excerpt_separator: <!--more-->
