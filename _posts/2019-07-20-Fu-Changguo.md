@@ -25,8 +25,7 @@ In legal terms, the public security authorities are obliged to inform the detain
 During his five months of detention and three months of forced disappearance, Fu has lost not only his personal freedom but also the precious opportunity to accompany his mother during her last days. Fu’s mother died of illness in January 2019 while he was under detention. Before she passed away, Fu’s family repeatedly requested the authorities for an interim bail so that he could see his mother one last time, but all requests were denied. Fu was not even allowed to arrange his mother’s funeral.
 
 
-<div style="text-align:center"><img src="/images/fuchangguo1.png" width="90%"/><br>Fu’s elder sister went to Shenzhen police bureau and tried to hand in an ‘Application for lifting compulsory measures’. The security bureau rejected her application letter right away.</div><br><br>
-
+<div style="text-align:center"><img src="/images/fuchangguo1.png" width="90%"/><br>Fu’s elder sister went to Shenzhen police bureau and tried to hand in an ‘Application for lifting compulsory measures’. The security bureau rejected her application letter right away.</div><br>
 
 
 Fu’s elder sister went to Shenzhen police bureau and tried to hand in an ‘Application for lifting compulsory measures’. The security bureau rejected her application letter right away.
