@@ -25,7 +25,7 @@ excerpt_separator: <!--more-->
 在被拘留的五个月，以及被失踪的三个月期间，付常国失去的不仅是人身自由，更是陪伴母亲终老的机会——付常国的母亲于2019年1月因病辞世，其家人事前一直去信要求公安局容许付常国保释回家乡与母亲见最后一面，但最后皆被拒绝，他甚至不能为母亲办理丧事。
 
 
-<div style="text-align:center"><img src="/images/fuchangguo1.png" width="90%"/><br>付常国姐姐到深圳市公安局提交「解除强制措施申请书」，被当局拒绝接收。</div>
+<div style="text-align:center"><img src="/images/fuchangguo1.png" width="90%"/><br>付常国姐姐到深圳市公安局提交「解除强制措施申请书」，被当局拒绝接收。</div><br><br>
 
 
 
