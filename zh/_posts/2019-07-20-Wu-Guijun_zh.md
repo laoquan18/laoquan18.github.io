@@ -2,7 +2,7 @@
 layout: post
 title: "吴贵军"
 date: 2019-07-20
-tags: activists
+tags: activists-zh
 image: images/wuguijun.png
 lang: zh
 lang-ref: 2019-07-20-Wu-Guijun
