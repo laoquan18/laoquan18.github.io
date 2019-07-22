@@ -34,4 +34,4 @@ excerpt_separator: <!--more-->
 
 
 
-<em>图文转自红气球网： <http://redballoonsolidarity.org/3658/></em>
+<em>图文转自红气球网： <http://redballoonsolidarity.org/3525/></em>
