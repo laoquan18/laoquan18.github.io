@@ -27,7 +27,6 @@ During his five months of detention and three months of forced disappearance, Fu
 
 <div style="text-align:center"><img src="/images/fuchangguo1.png" width="90%"/><br>Fu’s elder sister went to Shenzhen police bureau and tried to hand in an ‘Application for lifting compulsory measures’. The security bureau rejected her application letter right away.</div><br>
 
-
 Fu’s elder sister went to Shenzhen police bureau and tried to hand in an ‘Application for lifting compulsory measures’. The security bureau rejected her application letter right away.
 
 As a young man who upholds justice and willing to help grassroots workers, Fu Changguo won the hearts of the workers. After Fu’s arrest, the workers voluntarily wrote articles in order to raise public attention. In these articles, Fu was described as an ‘honest, brave and zealous young man’. When he explained labour law to the workers, he never lost his patience if they do not understand immediately. He would explain it over and over again until they understand.
