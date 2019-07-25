@@ -73,7 +73,7 @@ The Chinese government’s ongoing persecution of workers and labor rights advoc
 
 Renee Xia, Director (Mandarin, English), +1 863 866 1012 reneexia[at]nchrd.org, Follow on Twitter: <a href="http://www.twitter.com/ReneeXiaCHRD">@ReneeXiaCHRD</a>
 
-Frances Eve, Deputy Director of Research (English), +1 661 240 9177 franceseve[at]nchrd.org, Follow on Twitter: <a href=="http://www.twitter.com/FrancesEveCHRD">@FrancesEveCHRD</a>
+Frances Eve, Deputy Director of Research (English), +1 661 240 9177 franceseve[at]nchrd.org, Follow on Twitter: <a href="http://www.twitter.com/FrancesEveCHRD">@FrancesEveCHRD</a>
 
 
 <em>Reposted from China Human Rights Defenders: <https://www.nchrd.org/2019/07/china-must-release-detained-labor-rights-advocates/></em>
