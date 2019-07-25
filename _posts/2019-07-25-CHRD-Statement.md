@@ -28,7 +28,7 @@ Last summer, Shenzhen police broke up a protest by workers dismissed from a Jasi
 <div style="text-align:center"><img src="/images/jasic-five-detainees.png" width="90%"/><br>From left to right: Li Zhan, Liu Penghua, Mi Jiuping, Yu Juncong, and Fu Changguo</div><br>
 
 
-<em>Student Jasic Solidarity Movement Targeted as National Security Threat</em>
+<strong>Student Jasic Solidarity Movement Targeted as National Security Threat</strong>
 
 The Jasic workers efforts to unionize caught the attention of many students or recent graduates from elite universities, who organized and travelled to Shenzhen to support the Jasic workers’ strike and help push for protection of their rights. The CCP treated the student solidarity movement as a serious threat, despite the moderate demands of the students to defend the rights of Jasic workers and the involvement of many of the students in Marxist societies on campus. Peking University’s CCP secretary claimed <a href="https://theinitium.com/article/20181116-notes-china-labor-movement/">there had been</a> an “illegal organization” that infiltrated the university and “incited subversion of state power,” a familiar trope used by the government in an attempt to smear home-grown activism against its discriminatory and unequal policies. In March, at least <a href="https://www.ft.com/content/8ca45576-5158-11e9-9c76-bf4a0ce37d49">23 students or recent graduates</a> were still missing or detained.
 
