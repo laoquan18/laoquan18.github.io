@@ -69,7 +69,7 @@ Hard-working laborers should not be subjected to crude and violent treatment. I 
 
  
 
-<strong>The woman worker in the auto parts factory<strong>
+<strong>The woman worker in the auto parts factory</strong>
 
 In order to continue to stand with workers, I decided to become one.
 
