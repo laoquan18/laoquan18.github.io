@@ -2,7 +2,7 @@
 layout: post
 title: "米久平"
 date: 2019-07-20
-tags: activists
+tags: activists-zh
 image: images/mijiuping.jpg
 lang: zh
 lang-ref: 2019-07-20-Mi-Jiuping
