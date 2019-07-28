@@ -2,7 +2,7 @@
 layout: post
 title: "一年之间，百人被捕，不可不知的中国劳权大事"
 date: 2019-07-27
-tags: news-zh
+tags: [news-zh, sticky-zh]
 image: images/infographic1-1.jpg
 lang: zh
 lang-ref: 2019-07-27-one-year-infographic
