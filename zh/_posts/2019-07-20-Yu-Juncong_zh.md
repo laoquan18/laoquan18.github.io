@@ -2,7 +2,7 @@
 layout: post
 title: "余浚聪"
 date: 2019-07-20
-tags: activists
+tags: activists-zh
 image: images/yujuncong.jpg
 lang: zh
 lang-ref: 2019-07-20-Yu-Juncong
