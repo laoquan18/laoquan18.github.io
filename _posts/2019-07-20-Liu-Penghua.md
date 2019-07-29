@@ -3,7 +3,7 @@ layout: post
 title: "Liu Penghua"
 date: 2019-07-20
 tags: activists
-image: images/liupenghua.png
+image: images/liupenghua.jpg
 lang: en
 lang-ref: 2019-07-20-Liu-Penghua
 excerpt_separator: <!--more-->
