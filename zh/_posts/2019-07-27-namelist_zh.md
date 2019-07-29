@@ -2,7 +2,7 @@
 layout: post
 title: "自2018年7月27日被传呼、抓捕或失踪人士名单"
 date: 2019-07-27
-tags: [resources-zh, activists-zh, sticky-zh]
+tags: [resources-zh, activists-zh]
 image: images/missing.jpg
 lang: zh
 lang-ref: 2019-07-27-namelist
