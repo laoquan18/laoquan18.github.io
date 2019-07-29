@@ -3,7 +3,7 @@ layout: post
 title: "刘鹏华"
 date: 2019-07-20
 tags: activists-zh
-image: images/liupenghua.png
+image: images/liupenghua.jpg
 lang: zh
 lang-ref: 2019-07-20-Liu-Penghua
 excerpt_separator: <!--more-->
