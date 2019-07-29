@@ -382,7 +382,7 @@ excerpt_separator: <!--more-->
 
 114	Jian Hui, former staff of f the Shenzhen Chunfeng Labor Dispute Center, criminally detained on 2019-1-20
 
-115	<a href="https://laoquan18.github.io/Song-Jiahui/">Song Huijia</a>, former staff of the Shenzhen Chunfeng Labor Dispute Center, criminally detained on 2019-1-20
+115	<a href="https://laoquan18.github.io/Song-Jiahui/">Song Jiahui</a>, former staff of the Shenzhen Chunfeng Labor Dispute Center, criminally detained on 2019-1-20
 
 116	He Yuancheng, former staff of the Laowei Law Firm, labor activist, criminally detained on 2019-1-20
 
