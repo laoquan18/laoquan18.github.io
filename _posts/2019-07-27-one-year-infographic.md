@@ -118,342 +118,340 @@ excerpt_separator: <!--more-->
   
   
   
-<h3>自2018年7月27日传呼、抓捕与失踪人士名单</h3>
+<h3>List of the Summoned, Arrested and Disappeared since July 2018</h3>
+  
+1	<a href="https://laoquan18.github.io/Yu-Juncong/">Yu Juncong</a>,  Jasic worker, criminally detained on 2018-7-27
 
-1.	<a href="https://laoquan18.github.io/Yu-Juncong_zh/">余浚聪</a>，佳士维权工人， 2018-7-27被刑拘
+2	<a href="https://laoquan18.github.io/Mi-Jiuping/">Mi Jiuping</a> ,  Jasic worker, criminally detained on 2018-7-27
 
-2.	<a href="https://laoquan18.github.io/Mi-Jiuping_zh/">米久平</a>，佳士维权工人，2018-7-27被刑拘
+3	<a href="https://laoquan18.github.io/Liu-Penghua/">Liu Penghua</a>,  Jasic worker, criminally detained on 2018-7-27
 
-3.	<a href="https://laoquan18.github.io/Liu-Penghua_zh/">刘鹏华</a>，佳士维权工人， 2018-7-27被刑拘
+4	Song Yao,  Jasic worker, criminally detained on 2018-7-27
 
-4.	宋姚，佳士维权工人， 2018-7-27被刑拘
+5	Kuang Hengshu,  Jasic worker, criminally detained on 2018-7-27
 
-5.	邝恒书，佳士维权工人，2018-7-27被刑拘
+6	Chen Zhongge,  Jasic worker, criminally detained on 2018-7-27
 
-6.	陈忠革，佳士维权工人，2018-7-27被刑拘
+7	Zhang Baoxin,  Jasic worker, criminally detained on 2018-7-27
 
-7.	张保言，佳士维权工人，2018-7-27被刑拘
+8	Wu Shuang, worker, wife of Liu Penghua, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-8.	伍双，工人，刘鹏华妻子，建会工人支持者，2018-7-27被捕
+9 He Qiong, worker, wife of Kuang Hengshu, supporter of the Jasic workers, criminally detained on 2018-7-27 
 
-9.	何琼，工人，邝恒书妻子，建会工人支持者，2018-7-27被捕
+10	Huang Lanfeng, worker, wife of Yu Juncong, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-10.	黃兰凤，工人，余浚聪妻子，建会工人支持者，2018-7-27被捕 
+11	Yu Junchuan, worker, brother of Yu Juncong, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-11.	余浚川，工人，余浚聪弟，建会工人支持者，2018-7-27被捕
+12	Yu Kailong, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-12.	余凯龙，工人，建会工人支持者，2018-7-27被捕
+13	Yu Weiye, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-13.	虞炜烨，工人，建会工人支持者，2018-7-27被捕
+14	He Xuanhua, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-14.	何玄华，工人，建会工人支持者，2018-7-27被捕
+15	Zhang Yu, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-15.	张宇，工人，建会工人支持者，2018-7-27被捕
+16	Qiao Zhiqiang, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-16.	乔志强，工人，建会工人支持者，2018-7-27被捕
+17	Xiong Zhi, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-17.	熊志，工人，建会工人支持者，2018-7-27被捕
+18	Huang Wenyi, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-18.	黃文毅，工人，建会工人支持者，2018-7-27被捕
+19	Hu Zhi, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-19.	胡志，工人，建会工人支持者，2018-7-27被捕
+20	Tang Xiangwei, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-20.	唐向伟，工人，建会工人支持者，2018-7-27被捕
+21	Chen Yeling, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-21.	陈叶玲，工人，建会工人支持者，2018-7-27被捕
+22	Zhang Zeying, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-22.	张泽英，工人，建会工人支持者，2018-7-27被捕
+23	<a href="https://laoquan18.github.io/Li-Zhan/">Li Zhan</a>, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-23.	<a href="https://laoquan18.github.io/Li-Zhan_zh/">李展</a>，工人，建会工人支持者，2018-7-27被捕
+24	Zhang Yong, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-24.	张勇，工人，建会工人支持者，2018-7-27被捕
+25	Ye Yanfei, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-25.	叶严飞，工人，建会工人支持者，2018-7-27被捕
+26	Lan Zhiwei, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-26.	兰志伟，工人，建会工人支持者，2018-7-27被捕
+27	Shang Yangxue, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-27.	尚杨雪，工人，建会工人支持者，2018-7-27被捕
+28	Li Li, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-28.	李力，工人，建会工人支持者，2018-7-27被捕
+29	Mo Juezhan, worker, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-29.	莫爵展，工人，建会工人支持者，2018-7-27被捕
+30	Hu Kaiqiao, student, supporter of the Jasic workers, criminally detained on 2018-7-27
 
-30.	胡开巧，学生，建会工人支持者，2018-7-27被捕
+31	<a href="https://laoquan18.github.io/Fu-Changguo/">Fu Changguo</a>, staff of Shenzhen labor NGO Dagongzhe, criminally detained on 2018-8-10
 
-31.	<a href="https://laoquan18.github.io/Fu-Changguo_zh/">付常国</a>，深圳劳工团体「打工者中心」职员，2018-8-10被刑拘
+32	<a href="https://laoquan18.github.io/Shen-Mengyu/">Shen Mengyu</a>, graduate of Sun Yat Sen University, Guangzhou NHK Spring Precision factory worker and democratically elected collective bargaining representative, member of the Jasic Worker Support Group, disappeared on 2018-8-11
 
-32.	<a href="https://laoquan18.github.io/Shen-Mengyu_zh/">沈梦雨</a>，中山大学毕业生，广州日宏厂工人及民选工会谈判代表，佳士声援团成员，2018-8-11被失踪
+33	Huang Qingnan, legal representative of Shenzhen labor NGO Dagongzhe, criminally detained on 2018-8-13
 
-33.	黄庆南，深圳劳工团体「打工者中心」法人，2018-8-13被刑拘
+34	<a href="https://laoquan18.github.io/Yue-Xin/">Yue Xin</a>, graduate of Peking University , member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-34.	<a href="https://laoquan18.github.io/Yue-Xin_zh/">岳昕</a>，北京大学毕业生，佳士声援团成员，2018-8-24被捕
+35	Xu Zhongliang, graduate of University of Science and Technology Beijing,  one of the Eight Young Leftists*, member of the Jasic Worker Support Group, placed in RSDL** on 2018-8-24
 
-35.	徐忠良，北京科技大学毕业生，「八青年」之一，佳士声援团成员，2018-8-24被指定居所监视居住
+36	Zheng Yongming, one of the Eight Young Leftists*, member of the Jasic Worker Support Group, placed in RSDL** on 2018-8-24
 
-36.	郑永明，「八青年」之一，佳士声援团成员，2018-8-24被指定居所监视居住
+37	Liang Xiaogang, worker, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-37.	梁晓刚，工人，佳士声援团成员，2018-8-24被捕
+38	Hu Pingping, worker, member of the Jasic Worker Support Group, criminally detained on 2018-8-24
 
-38.	胡平平，工人，佳士声援团成员，2018-8-24被刑拘
+39	Wu Haiyu, worker, member of the Jasic Worker Support Group, criminally detained on 2018-8-24
 
-39.	吴海宇，工人，佳士声援团成员，2018-8-24被刑拘
+40	Ma Zisheng, Peking University security guard, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-40.	马子胜，北京大学保安，佳士声援团成员，2018-8-24被捕
+41	Li Qihong, student of Hunan University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-41.	李其虹，湖南大学学生，佳士声援团成员，2018-8-24被捕
+42	Fu Jiahui, Hunan university student, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-42.	付佳慧，湖南大学生，佳士声援团成员，2018-8-24被捕
+43	Liu Changyuan, student of Nankai University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-43.	刘常源，南开大学学生，佳士声援团成员，2018-8-24被捕
+44	Li Chaochao, student of Nanjing University of Chinese Medicine, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-44.	季超超，南京中医药大学学生，佳士声援团成员，2018-8-24被捕
+45	Yan Zihao, student of Renmin University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-45.	严梓豪，中国人民大学学生，佳士声援团成员，2018-8-24被捕
+46	Chen Kexin, student of Renmin University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-46.	陈可欣，中国人民大学学生，佳士声援团成员，2018-8-24被捕
+47	Yang Shuhan, student of Renmin University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-47.	杨舒涵，中国人民大学学生，佳士声援团成员，2018-8-24被捕
+48	Hu Jiaohui, student of Beijing Foreign Studies University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-48.	胡娇慧，北京外国语大学学生，佳士声援团成员，2018-8-24被捕
+49	Zhou Rui, student of Beijing Foreign Studies University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-49.	周睿，北京外国语大学学生，佳士声援团成员，2018-8-24被捕
+50	Lv Qisheng, student of University of Science and Technology Beijing, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-50.	吕奇晟，北京科技大学学生，佳士声援团成员，2018-8-24被捕
+51	Wang Junqi, student of Peking University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-51.	王俊琪，北京大学学生，佳士声援团成员，2018-8-24被捕
+52	Zheng Bo, student of Peking University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-52.	郑博，北京大学学生，佳士声援团成员，2018-8-24被捕
+53	Sun Shuaidong, student of Peking University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-53.	孙帅东，北京大学学生，佳士声援团成员，2018-8-24被捕
+54	Wu Xu, , student of Peking University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-54.	伍旭，北京大学学生，佳士声援团成员，2018-8-24被捕
+55	Wang Hanshu, student of Peking University, member of the Jasic Worker Support Group, apprehended on 2018-8-24 
 
-55.	王瀚枢，北京大学学生，佳士声援团成员，2018-8-24被捕 
+56	Zhang Zhenlin, student of Peking University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-56.	张震林，北京大学学生，佳士声援团成员，2018-8-24被捕
+57	Zhang Xiaoyu, student of Peking University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-57.	张小玉，北京大学学生，佳士声援团成员，2018-8-24被捕
+58	Zhang Ziyi, student of Peking University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-58.	张子依，北京大学学生，佳士声援团成员，2018-8-24被捕
+59	Zhang Shengye, graduate of Peking University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-59.	张圣业，北京大学毕业生，佳士声援团成员，2018-8-24被捕
+60	Yang Junzhong, graduate of Peking University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-60.	杨珺中，北京大学毕业生，佳士声援团成员，2018-8-24被捕
+61	Zhan Zhenzhen, graduate of Peking University, initiator of the “Campus Support Workers Research Report”,，member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-61.	展振振，北京大学毕业生，《后勤工人调查报告》发起人，佳士声援团成员，2018-8-24被捕
+62	Feng Ge, student of Peking University, President of the Peking University Anti-Poverty Association, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-62.	冯歌，北京大学学生，北大反贫困协会前会长，佳士声援团成员，2018-8-24被捕
+63	Feng Rui, graduate of Beijing Normal University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-63.	冯睿，北京师范大学毕业生，佳士声援团成员，2018-8-24被捕
+64	<a href="https://laoquan18.github.io/Yang-Zhengjun/">Yang Zhengjun</a>, graduate of Beihang University, editor of worker media platform “iLabour”, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-64.	<a href="https://laoquan18.github.io/Yang-Zhengjun_zh/">杨郑君</a>，北京航空航天大学毕业生，工人新媒体新生代编辑，2018-8-24被捕
+65	Graduate of Nanjing Normal University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-65.	南京师范大学应届毕业生，佳士声援团成员，2018-8-24佳士清场被捕
+66	Student of Shanghai Tongji University, member of the Jasic Worker Support Group, apprehended on 2018-8-24
 
-66.	上海同济大学学生，佳士声援团成员，2018-8-24佳士清场被捕
+(repeat harassment) Yu Kailong,worker, supporter of the Jasic workers, apprehended on 2018-8-24
 
-（再次骚扰） 余凯龙，工人，建会工人支持者，2018-8-24被捕
+(repeat harassment) Yu Weiye, worker, supporter of the Jasic workers, apprehended on 2018-8-24
 
-（再次骚扰） 虞炜烨，工人，建会工人支持者，2018-8-24被捕
+(repeat harassment) He Xuanhua, worker, supporter of the Jasic workers, apprehended on 2018-8-24
 
-（再次骚扰） 何玄华，工人，建会工人支持者，2018-8-24被捕
+67	Gu Jiayue, graduate of Beijing University, one of the Eight Young Leftists*, supporter of the Jasic workers, placed in RSDL** on 2018-8-24
 
-67.	顾佳悦，北京大学毕业生，佳士支持者，2018-8-24被捕
+68	Yang Shaoqiang, graduate of University of Science and Technology Beijing, supporter of the Jasic workers, apprehended on 2018-8-24
 
-68.	杨少强，北京科技大学毕业生，佳士支持者，2018-8-24被捕
+(repeat harassment) Tang Xiangwei, worker, supporter of the Jasic workers, apprehended on 2018-8-24
 
-（再次骚扰） 唐向伟，工人，建会工人支持者，2018-8-24被捕
+(repeat harassment) Shang Yangxue, worker, supporter of the Jasic workers, apprehended on 2018-8-24
 
-（再次骚扰） 尚杨雪，工人，建会工人支持者，2018-8-24被捕
+69	Shang  Kai, editor of leftist media Red Reference, supporter of the Jasic workers, criminally detained on 2018-8-24
 
-69.	尚恺，左翼网站《红色参考》编辑，佳士支持者，2018-8-24	被刑拘
+70	Song Yangbiao, independent media personality, summoned on 2018-8-24
 
-70.	宋阳标，独立媒体人，2018-8-24被约谈
+71	Editor of “Maoist Banner” website, summoned on 2018-8-24
 
-71.	毛泽东思想旗帜网编辑，2018-8-24被约谈
+72	Editor of “Maoist Banner” website, summoned on 2018-8-24
 
-72.	毛泽东思想旗帜网编辑，2018-8-24被约谈
+73	Tang Jialiang, student of Beijing Institute of Technology, apprehended September 2018	
 
-73.	唐家梁，北京理工大学研究生，2018年9月被捕	
+74	Jia Shijie, student of Peking University  Health Science Center, disappeared on 2018-9-23
 
-74.	贾世杰，北京大学医学部学生，2018-9-23被失踪
+75	 Wu Lijie, editor of “China Red Flag” website, apprehended 2018-10-24	
 
-75.	 吴立杰，中国红旗网主编，2018-10-24被捕	
+(repeat harassment) Zhang Shengye, graduate of Peking University, member of the Jasic Worker Support Group, disappeared on 2018-11-9
 
-（再次骚扰） 张圣业，北京大学毕业生，佳士声援团成员， 2018-11-9被失踪
+76	Sun Min, graduate of Peking University, supporter of the Jasic workers, apprehended on 2018-11-9
 
-76.	孙敏，北京大学毕业生，佳士支持者，2018-11-9被捕
+77	Zong Yang, graduate of Peking University Law School, member of the Jasic Worker Support Group, disappeared on 2018-11-9
 
-77.	宗扬，北京大学法学院毕业生，佳士支持者，2018-11-9被捕
+(repeat harassment) Liang Xiaogang, worker, supporter of the Jasic workers, apprehended on 2018-11-9
 
-（再次骚扰） 梁晓刚，工人，佳士支持者，2018-11-9被捕
+78	Zheng Yiran, graduate of Beijing Language and Culture University, supporter of the Jasic workers, apprehended on 2018-11-9
 
-78.	郑依然，北京语言大学毕业生，佳士支持者，2018-11-9被捕
+79	Lv Daxing, graduate of Nanjing University of Science and Technology, supporter of the Jasic workers, apprehended on 2018-11-9
 
-79.	吕大兴，南京理工大学毕业生，佳士支持者，2018-11-9被捕
+80	Li Xiaoxian, graduate of Nanjing University of Chinese Medicine, supporter of the Jasic workers, apprehended on 2018-11-9
 
-80.	李笑仙，南京中医药大学毕业生，佳士支持者，2018-11-9被捕
+81	He Pengchao, graduate of Peking University, co-founder of Qingying Youth Social Work Center, placed in RSDL** on 2019-11-9
 
-81.	贺鹏超，北京大学毕业生，青鹰社工中心创始人，2019-11-9被指定居所监视居住
+82	Wang Xiangyi, graduate of Peking University, co-founder of Qingying Youth Social Work Center, placed in RSDL** on 2019-11-9
 
-82.	<a href="https://laoquan18.github.io/Wang-Xiangyi_zh/">王相宜</a>，北京大学毕业生，青鹰社工中心创始人，2019-11-9被指定居所监视居住
+83	Jian Xiaowei, graduate of Renmin University, staff of Qingying Youth Social Work Center, apprehended on 2018-11-9
 
-83.	简小薇，中国人民大学毕业生，青鹰社工中心职员，2019-11-9被捕
+84	Kang Yanyan, graduate of University of Science and Technology Beijing, staff of Qingying Youth Social Work Center, apprehended on 2018-11-9
 
-84.	康妍妍，北京科技大学毕业生，青鹰社工中心职员，2019-11-9被捕
+85	Hou Changshan, graduate of Beijing Foreign Studies University, staff of Qingying Youth Social Work Center, apprehended on 2018-11-9
 
-85.	侯长珊，北京外国语大学毕业生，青鹰社工中心职员，2019-11-9被捕
+86	Wang Xiaomei, graduate of Nanjing University of Information Science & Technology, staff of Qingying Youth Social Work Center, apprehended on 2018-11-9
 
-86.	王小妹，南京信息工程大学毕业生，青鹰社工中心职员，2019-11-9被捕
+87	He Xiumei, volunteer of Qingying Youth Social Work Center, apprehended on 2018-11-9
 
-87.	何秀梅，青鹰社工中心支持者，2019-11-9被捕
+88	Zou Liping, staff of neighborhood trade union, apprehended on 2018-11-9
 
-88.	邹丽萍，社区工会工作人员，2019-11-9被捕
+89	Li Ao, staff of neighborhood trade union, apprehended on 2018-11-9
 
-89.	李奥，社区工会工作人员，2019-11-9被捕
+90	Wang Guixia, worker, supporter of the Jasic workers, apprehended on 2018-11-9
 
-90.	王贵霞，工人，佳士支持者，2019-11-9被捕
+91	Wu Xuwen,worker, supporter of the Jasic workers, apprehended on 2018-11-9
 
-91.	吴旭文，工人，佳士支持者，2019-11-9被捕
+92	Tang Qinhua, worker, supporter of the Jasic workers, apprehended on 2018-11-9
 
-92.	唐钦华，工人，佳士支持者，2019-11-9被捕
+93	Dai Huifang, worker, supporter of the Jasic workers, apprehended on 2018-11-9
 
-93.	戴会芳，工人，佳士支持者，2019-11-9被捕
+94	Li Yuanzhu, worker, supporter of the Jasic workers, apprehended on 2018-11-9
 
-94.	李元柱	，工人，佳士支持者，2019-11-9被捕
+95	Zheng Shiyou, worker, supporter of the Jasic workers, apprehended on 2018-11-11
 
-95.	郑时友，工人，佳士支持者，2019-11-11被捕
+96	Wu Jiawei, graduate of Renmin University, supporter of the Jasic workers, apprehended on 2018-11-11
 
-96.	吴家伟，人民大学毕业生，佳士支持者，2019-11-11被捕
+(repeat harassment) Tang Xiangwei, worker, supporter of the Jasic workers, apprehended on 2018-11-11
 
-（再次骚扰）唐向伟，工人，建会工人支持者，2019-11-11被捕
+97	Yu Tianfu, student of Peking University, disappeared on 2018-11-11
 
-97.	于天夫，北京大学学生，2018-11-11被失踪
+98	Feng Junjie, student of Peking University Health Sciences Center, disappeared on 2018-11-23
 
-98.	冯俊杰，北大医学部学生， 2018-11-23被失踪
+99	Qiu Zhanxuan, student of Peking University, president of Peking University Marxism Society, summoned on 2018-12-26
 
-99.	邱占萱，北京大学学生，北大马会会长，2018-12-26被约谈
+(repeat harassment) Ma Zisheng, Peking University security guard, member of the Jasic Worker Support Group, criminally detained 2018-12-27
 
-（再次骚扰） 马子胜，北京大学保安，佳士声援团成员，2018-12-27被刑拘
+100	Cao Jian, Peking University security guard, criminally detained 2018-12-27
 
-100.	曹建，北京大学保安，2018-12-27被刑拘
+(repeat harassment) Huang Lanfeng, worker, wife of Yu Juncong, supporter of the Jasic workers, apprehended 2018-12-28
 
-（再次骚扰）黄兰凤，工人，余浚聪妻子，建会工人支持者， 2018-12-28被捕
+(repeat harassment) Hu Zhi, worker, supporter of the Jasic workers, apprehended 2018-12-28
 
-（再次骚扰）胡志，工人，建会工人支持者， 2018-12-28被捕
+(repeat harassment) Chen Yeling, worker, supporter of the Jasic workers, apprehended 2018-12-28
 
-（再次骚扰）陈叶玲，工人，建会工人支持者，2018-12-28被捕
+(repeat harassment) Yu Kailong, worker, supporter of the Jasic workers, apprehended December 2018
 
-（再次骚扰）余凯龙，工人，建会工人支持者，2018年12月被捕
+(repeat harassment) Li Yuanzhu, worker, supporter of the Jasic workers, apprehended December 2018
 
-（再次骚扰）李元柱	，工人，佳士支持者，2018年12月被捕
+101	Mu Yingshan, supporter of the Jasic workers, apprehended December 2018
 
-101.	母应珊，建会工人支持者，2018年12月被捕
+102	(repeat harassment) Zhan Zhenzhen, graduate of Peking University, initiator of the “Campus Support Workers Research Report”,，member of the Jasic Worker Support Group, apprehended on 2019-1-2
 
-（再次骚扰）展振振，北京大学毕业生，《后勤工人调查报告》发起人，佳士声援团成员，2019-1-2被捕
+(repeat harassment) Zhang Zeying, worker, supporter of the Jasic workers, apprehended on 2019-1-2
 
-（再次骚扰）张泽英，工人，建会工人支持者， 2019-1-2被捕
+(repeat harassment) Lan Zhiwei, worker, supporter of the Jasic workers, apprehended on 2019-1-2
 
-（再次骚扰）兰志伟，工人，建会工人支持者， 2019-1-2被捕
+103	Liang Ran, graduate of Nanjing Agricultural University, disappeared 2019-1-3
 
-102.	梁冉，南京农业大学研究生，2019-1-3被失踪
+104	Ma Tiequn, graduate of Nanjing Agricultural University, disappeared 2019-1-3
 
-103.	马铁群，南京农业大学研究生，2019-1-3被失踪
+105	Han Peng, graduate of Nanjing Agricultural University, disappeared 2019-1-3
 
-104.	韩鹏，南京农业大学毕业生，2019-1-3被失踪
+106	Huang Siyu, graduate of Nanjing University of Chinese Medicine, disappeared 2019-1-3
 
-105.	黄思玉，南京中医药大学毕业生，2019-1-3被失踪
+107	Jin Shuai, graduate of Nanjing University of Chinese Medicine, disappeared 2019-1-3
 
-106.	金帅，南京中医药大学毕业生，2019-1-3被失踪
+108	Hu Wei, graduate of Nanjing University, disappeared 2019-1-3
 
-107.	胡伟，南京大学毕业生，2019-1-3被失踪
+109	Zhu Xuejing, graduate of Nanjing Institute of Industrial Technology, disappeared 2019-1-3
 
-108.	朱学婧，南京工业职业技术学院毕业生，2019-1-3被失踪
+110	Cui Zhiyang, graduate of Nanjing University of Science and Technology, disappeared 2019-1-3
 
-109.	催志阳，南京理工大学毕业生，2019-1-3被失踪
+(repeat harassment) <a href="https://laoquan18.github.io/Yang-Zhengjun/">Yang Zhengjun</a>, graduate of Beihang University, editor of worker media platform “iLabour”, criminally detained on 2019-1-8
 
-（再次骚扰）<a href="https://laoquan18.github.io/Yang-Zhengjun_zh/">杨郑君</a>，北京航空航天大学毕业生，工人新媒体新生代编辑，2019-1-8被刑拘
+111	Wang Mengjie, student of Peking University Health Science Center, disappeared on 2019-1-17
 
-110.	王梦洁，北京大学医学部学生，佳士支持者，2019-1-17失联
+112	Wang Ji’ao, Remin University security guard, disappeared on 2019-1-18
 
-111.	王纪傲，人民大学保安，2019-1-18失联
+113	Zhang Zhiru, founder of the Shenzhen Chunfeng Labor Dispute Center, criminally detained on 2019-1-20
 
-112.	<a href="https://laoquan18.github.io/Chun-Feng_zh/">张治儒</a>，春风劳动争议服务部创始人，2019-1-20被刑拘
+114	Jian Hui, former staff of f the Shenzhen Chunfeng Labor Dispute Center, criminally detained on 2019-1-20
 
-113.	<a href="https://laoquan18.github.io/Chun-Feng_zh/">简辉</a>，春风劳动争议服务部前职员，2019-1-20以被刑拘
+115	<a href="https://laoquan18.github.io/Song-Jiahui/">Song Huijia</a>, former staff of the Shenzhen Chunfeng Labor Dispute Center, criminally detained on 2019-1-20
 
-114.	<a href="https://laoquan18.github.io/Song-Jiahui_zh/">宋佳慧</a>，春风劳动争议服务部前职员，2019-1-20被刑拘
+116	He Yuancheng, former staff of the Laowei Law Firm, labor activist, criminally detained on 2019-1-20
 
-115.	<a href="https://laoquan18.github.io/He-Yuancheng_zh/">何远程</a>，劳维律师事务所前职员，劳权人士，2019-1-20被刑拘
+117	Wu Guijun, labor activist, criminally detained on 2019-1-20
 
-116.	<a href="https://laoquan18.github.io/Wu-Guijun_zh/">吴贵军</a>，劳权人士，2019-1-20被刑拘
+(repeat harassment) Yan Zihao, student of Renmin University, member of the Jasic Workers Support Group, apprehended 2019-1-21
 
-（再次骚扰） 严梓豪，中国人民大学学生，佳士声援团成员，2019-1-21被捕
+118	Li Ziyi, student of Peking University, apprehended on 2019-1-21
 
-117.	李子怡，北京大学学生，2019-1-21被捕
+119	Ma Shize, student of Peking University, criminally detained on 2019-1-21
 
-118.	马世泽，北京大学学生，2019-1-21被刑拘
+120	Li Jiahao, student of Peking University, apprehended on 2019-1-21
 
-119.	李嘉豪，北京大学毕业生，2019-1-21被捕
+121	Huang Yu, student of Peking University, apprehended on 2019-1-21
 
-120.	黄宇，北京大学毕业生，2019-1-21被捕
+122	Sun Jiayan, student of Peking University, apprehended on 2019-1-21
 
-121.	孙嘉言，北京大学医学部学生，2019-1-2被捕
+123	Zhang Ziwei, student of Peking University Health Science Center, apprehended on 2019-1-21
 
-122.	张子尉，北京大学医学部学生，2019-1-21因公布佳士认罪视频被捕
+(repeat harassment) Sun Shuaidong, student of Peking University, disappeared on 2019-1-30
 
-（再次骚扰） 孙帅东，北京大学学生，佳士声援团成员，2019-1-30失联
+124	Zhu Shunqing, student of Nanjing University, disappeared on 2019-2-1
 
-123.	朱舜卿，南京大学学生，2019-2-1失联
+(repeat harassment) Chen Kexin, student of Renmin University, member of the Jasic Worker Support Group, disappeared on 2019-2-16
 
-（再次骚扰） 陈可欣，中国人民大学学生，佳士声援团成员，2019-2-16失联
+(repeat harassment) Wu Jiawei, graduate of Renmin University, supporter of the Jasic workers, disappeared on 2019-2-16
 
-（再次骚扰） 吴家伟，人民大学毕业生，佳士支持者，2019-2-16失联
+125	Xuan Hong, student, disappeared on 2019-3-4 
 
-124.	宣弘，学生，2019-3-4 被失踪
+126	<a href="https://laoquan18.github.io/Wei-Zhili/">Wei Zhili</a>, editor of worker media “iLabour”, criminally detained on 2019-3-20
 
-125.	<a href="https://laoquan18.github.io/Wei-Zhili_zh/">危志立</a>，工人媒体「新生代」编辑，2019-3-20被刑拘
+127	<a href="https://laoquan18.github.io/Ke-Chengbing/">Ke Chengbing</a>, editor of worker media “iLabour”, criminally detained on 2019-3-20
 
-126.	<a href="https://laoquan18.github.io/Ke-Chengbing_zh/">柯成兵</a>，工人媒体「新生代」编辑，2019-3-20被刑拘
+128	Chai Xiaoming, editor of leftist website “Red Reference”, former lecturer of Peking University School of Marxism, placed in RSDL** on 2019-3-21
 
-127.	柴晓明，左翼网站「红色参考」编辑，北京大学马克思主义学院前讲师，2019-3-21被指定居所监视居住
+129	Shen Yuxuan, student of Peking University Health Science Center, disappeared on 2019-4-28
 
-128.	沈雨轩，北京大学医学部学生，2019-4-28被失踪
+(repeat harassment) Qiu Zhanxuan, student of Peking University, president of Peking University Marxism Society, disappeared 2019-4-29
 
-（再次骚扰） 邱占萱，北京大学学生，北大马会会长，2019-4-29被失踪
+(repeat harassment) Wang Hanshu, student of Peking University, member of the Jasic Worker Support Group, disappeared on 2019-4-29
 
-（再次骚扰） 王瀚枢，北京大学学生，佳士声援团成员，2019-4-29被失踪
+(repeat harassment) Li Ziyi, student of Peking University, disappeared on 2019-4-29
 
-（再次骚扰） 李子怡，北京大学学生，2019-4-29被失踪
+130	Jiao Borong, student of Peking University, disappeared on 2019-4-29
 
-129.	焦柏榕，北京大学学生，2019-4-29被失踪
+(repeat harassment) Sun Jiayan, student of Peking University Health Science Center, disappeared on 2019-4-29
 
-（再次骚扰） 孙嘉言，北京大学医学部学生，2019-4-29被失踪
+131	<a href="https://laoquan18.github.io/Li-Dajun/">Li Dajun</a>, coordinator of Beijing Lengquan Hope Community, migrant worker community social worker, placed in RSDL** on 2019-5-8
 
-130.	<a href="https://laoquan18.github.io/Li-Dajun_zh/">李大君</a>，北京冷泉希望社区负责人， 农民工社区社会工作者，2019-5-8指定居所监视居住
+132	Li Changjiang, coordinator of Shenzhen Qinghu Community School,  migrant worker community social worker, placed in RSDL** on 2019-5-8
 
-131.	李长江，深圳清湖学堂负责人，农民工社区社会工作者，2019-5-8被指定居所监视居住
+133	Liang Zixun, post-doctorate of Tsinghua University, vocational education and youth social worker, placed in RSDL** on 2019-5-8
 
-132.	梁自存，清华大学博士后，职业教育及青少年发展社会工作者，2019-5-8被指定居所监视居住
+134	Wuqiong Wenqian, former editor of independent media “Groundbreaking”, independent media personality, migrant children researcher, placed in RSDL** on 2019-5-8
 
-133.	吴琼文倩，土逗公社前编辑，公益媒体人，流动儿童研究者，2019-5-8被指定居所监视居住
+135	Tong Feifei, chief coordinator of Guangdong Mumian Social Work Service Center, migrant women and children social worker, placed in RSDL** on 2019-5-22
 
-134.	<a href="https://laoquan18.github.io/Tong-Feifei_zh/">童菲菲</a>，广东木棉社会工作服务中心总干事，流动人口及妇女儿童社会工作者，2019-5-22	被指定居所监视居住
+(repeat harassment) Zhang Xiaoyu, student of Peking University, disappeared in June 2019
 
-（再次骚扰） 张小玉，北京大学学生，2019年6月失联
+(repeat harassment) Zhang Ziyi, student of Peking University, disappeared in June 2019
 
-（再次骚扰） 张子依，北京大学学生，2019年6月失联
+(repeat harassment) Wu Xu, student of Peking University, disappeared in June 2019
 
-（再次骚扰） 伍旭，北京大学学生，佳士声援团成员，2019年6月失联
+136	Ye Tianyi, student of Peking University, disappeared in June 2019
 
-135.	叶天翼，北京大学学生，2019年6月失联
+(repeat harassment) Dai Huifang, worker, supporter of the Jasic workers, disappeared in June 2019
 
-（再次骚扰） 戴会芳，工人，佳士支持者，2019年6月失联
+(repeat harassment) Wang Guixia, worker, supporter of the Jasic workers, disappeared in June 2019
 
-（再次骚扰） 王贵霞，工人，佳士支持者，2019年6月失联
+(repeat harassment) Zhang Yu, worker, supporter of the Jasic workers, disappeared in June 2019
 
-（再次骚扰） 张宇，工人，佳士支持者，2019年6月失联
-
-136.	孟宪达，工人，人民之声网编辑，2019-6-24被行政拘留
-
-
+137	Meng Xianda, worker, editor of “People’s Voice”, administratively detained on 2019-6-24
