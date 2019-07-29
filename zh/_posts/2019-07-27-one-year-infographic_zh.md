@@ -2,7 +2,7 @@
 layout: post
 title: "一年之间，百人被捕，不可不知的中国劳权大事"
 date: 2019-07-27
-tags: [resources-zh, sticky-zh]
+tags: [resources-zh, activists-zh, sticky-zh]
 image: images/infographic1-1.jpg
 lang: zh
 lang-ref: 2019-07-27-one-year-infographic
@@ -118,7 +118,7 @@ excerpt_separator: <!--more-->
   
   
   
-<h3>自2018年7月27日传呼、抓捕与失踪人士名单</h3>
+<h3>自2018年7月27日被传呼、抓捕或失踪人士名单</h3>
 
 1.	<a href="https://laoquan18.github.io/Yu-Juncong_zh/">余浚聪</a>，佳士维权工人， 2018-7-27被刑拘
 
