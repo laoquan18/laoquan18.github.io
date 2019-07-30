@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Dying for China’s economic miracle: migrant workers ravaged by lung disease, fighting to pay for their funerals"
-date: 2019-07-20
+date: 2018-10-10
 tags: news
 image: images/E1.jpg
 lang: en
-lang-ref: 2018-10-10-Dying for China’s economic miracle: migrant workers ravaged by lung disease, fighting to pay for their funerals
+lang-ref: 2018-10-10-Dying-for-China’s-economic-miracle
 excerpt_separator: <!--more-->
 
 ---
