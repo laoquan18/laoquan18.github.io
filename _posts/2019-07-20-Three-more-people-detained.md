@@ -18,8 +18,7 @@ They then questioned staff and volunteers, seized documents and computers, and a
 
 Li Dajun, the director of Hope Community in Beijing, is among those thought to be in custody. The group he represents carries out research work and provides advocacy for migrant workers and their children in the Chinese capital.
 
-<div style="text-align:center"><img src="/images/B2.jpg" width="90%"/></div>
-<br>Police staged raids on three groups that provide support services for migrant workers. <br>
+<div style="text-align:center"><img src="/images/B2.jpg" width="90%"/></div><br>Police staged raids on three groups that provide support services for migrant workers. <br>
 
 While his detention has not been confirmed by the authorities, sources said his phone had been switched off since the raid on Wednesday and he had not been in contact with his family or friends.
 
@@ -33,8 +32,7 @@ The third person believed to have been detained is Li Changjiang, director of th
 
 A friend said in an interview that Li was taken away on Wednesday afternoon after police raided his office, conducted a search of the premises and questioned members of staff.
 
-<div style="text-align:center"><img src="/images/B3.jpg" width="90%"/></div>
-<br>People take part in a demonstration in support of factory workers of Jasic Technology on August 6. <br>
+<div style="text-align:center"><img src="/images/B3.jpg" width="90%"/></div><br>People take part in a demonstration in support of factory workers of Jasic Technology on August 6. <br>
 
 “Things have been tighter recently, and police have made more and more arrests since Jasic last year,” the person said, referring to the labour dispute at stock market-listed Jasic Technology in Shenzhen, whose workers staged protests for the right to set up a union.
 
@@ -50,9 +48,7 @@ Only a small number of “service-oriented” organisations that helped with suc
 
 Chan said that more than 50 activists, students and workers had been detained since July, and that the authorities had accused a number of students of fanning the flames of the Jasic workers’ protest.
 
-<div style="text-align:center"><img src="/images/B4.jpg" width="90%"/></div>
-<br>A crackdown on labour activist groups in China has been going on since 2015. 
-br>
+<div style="text-align:center"><img src="/images/B4.jpg" width="90%"/></div><br>A crackdown on labour activist groups in China has been going on since 2015. <br>
 
 Manfred Elfstrom, a scholar and teaching fellow at the School of International Relations, University of Southern California, said controls over China’s labour groups had been tightened significantly in recent years.
 
@@ -70,8 +66,7 @@ The friend of Liang Zicun said there was nothing mysterious about the activities
 
 Last year, Mumian took part in a gathering of NGOs organised by the department of human resources and social security at the Shunde district government in Guangzhou, the person said, and in 2016, it hosted a joint discussion on the needs of vocational school students with a social services organisation, also under the district government.
 
-<div style="text-align:center"><img src="/images/B5.jpg" width="90%"/></div>
-<br>Sources said that before Wednesday’s raids the three support centres had operated without much trouble. <br>
+<div style="text-align:center"><img src="/images/B5.jpg" width="90%"/></div><br>Sources said that before Wednesday’s raids the three support centres had operated without much trouble. <br>
 
 A man who spent 12 months as a volunteer teacher at Qinghu said the centre was an important feature of the migrant worker community in Shenzhen.
 
