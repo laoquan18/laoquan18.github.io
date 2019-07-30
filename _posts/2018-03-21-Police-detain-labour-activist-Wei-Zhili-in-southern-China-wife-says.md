@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Police detain labour activist Wei Zhili in southern China, wife says"
-date: 2010-03-21
+date: 2018-03-21
 tags: news
 image: images/G1.jpg
 lang: en
