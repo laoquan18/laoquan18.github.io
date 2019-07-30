@@ -44,4 +44,4 @@ Professor Pun Ngai, a China labour rights expert with University of Hong Kong, c
 
 Workers have struggled to win compensation for the cost to their health as they had no documentary proof of their employment. China introduced a law in 2008 that required employers to issue contracts to staff.
 
-<em>Reposted from South China Morning Post: <https://www.scmp.com/news/china/politics/article/2172331/chinese-workers-say-silicosis-protest-was-broken-beatings-and></em>
+<em>Reposted from South China Morning Post: <https://www.scmp.com/news/china/politics/article/3002732/chinese-labour-rights-activists-detained-authorities-try-shut></em>
