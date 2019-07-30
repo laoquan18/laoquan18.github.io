@@ -20,7 +20,8 @@ Red Balloon Solidarity, a labour rights monitor in Hong Kong, said in a statemen
 
 China Labour Bulletin (CLB), another workers’ rights group in Hong Kong, said Zhang, Wu and He had all been charged with “disturbing public order” but the circumstances of Jian and Song’s arrests were not known.
 
-<div style="text-align:center"><img src="/images/A2.jpg" width="90%"/></div><br>Wu Guijun’s family have received a letter from police notifying them of his arrest.</div><br>
+<div style="text-align:center"><img src="/images/A2.jpg" width="90%"/></div>
+<br>Wu Guijun’s family have received a letter from police notifying them of his arrest.<br>
 
 
 Xiao Hongxia, Zhang’s former wife who lives in Shenzhen, said police had visited her on Sunday night, returning to her care their eight-year-old son, who had been with his father when he was arrested.
@@ -50,3 +51,5 @@ Zhang and Lin worked together at the Chunfeng Labour Dispute Service Centre, a S
 Sunday’s coordinated targeting of labour activists was the latest of its kind since a crackdown in December 2015, when at least 25 NGO workers and activists around the country were detained and questioned by police in an apparent bid to break up the groups.
 
 Three leading activists – Zeng Feiyang, Zhu Xiaomei and Meng Han – were later charged with “disturbing public order”. Zeng and Zhu were given suspended prison sentences after pleading guilty to the charges, while Meng served a 21-month jail term.
+
+<em>Reposted from South China Morning Post: <https://www.scmp.com/news/china/politics/article/2183209/least-five-labour-rights-activists-arrested-across-china></em>
