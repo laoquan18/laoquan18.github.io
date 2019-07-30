@@ -22,6 +22,7 @@ China Labour Bulletin (CLB), another workers’ rights group in Hong Kong, said 
 
 <div style="text-align:center"><img src="/images/A2.jpg" width="90%"/></div><br>Wu Guijun’s family have received a letter from police notifying them of his arrest.</div><br>
 
+
 Xiao Hongxia, Zhang’s former wife who lives in Shenzhen, said police had visited her on Sunday night, returning to her care their eight-year-old son, who had been with his father when he was arrested.
 
 “Once we receive the official notification from the police, then we will think about hiring a lawyer, and try to see him,” Xiao said. “We want to see him first and understand what he thinks.
