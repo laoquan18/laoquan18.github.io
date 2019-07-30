@@ -43,31 +43,31 @@ Students and other supporters formed the Jasic Worker Support Group. This group 
 
 From September to November 2018, one after the other, more workers and students were arrested and disappeared, and the crackdown spread. First, student groups concerned with labor rights and Marxism were blocked from registering, later labor activists and media activists who had not participated in the Jasic events also disappeared. Even staff at social work organizations that had cooperated with the government were arrested. Specific groups include:
 
-1. Other worker supporters
+1 Other worker supporters
 
 Other than Jasic workers, workers from other factories have come out to support and been arrested.
 
 Crackdown period: July 2018 to the present
 
-2. Student networks
+2 Student networks
 
 Beginning in September 2018, different Marxist student socities were blocked from registering, while Peking University's Marxist society was completely reconstituted with new membership at a stroke of the school authorities' pen, eliminating all existing members from the membership rolls. Those students who had participated in Jasic solidarity efforts were serially arrested, abducted or disappeared.
 
 Crackdown period: September 2018 to the present
 
-3. Labor rights organizations
+3 Labor rights organizations
 
 In August 2018, Fu Changguo of the "Da Gong Zhe" center for migrant workers, who provided legal education and training to workers, was arrested and accused of inciting the Jasic events despite his minimal participation. In January the next year, five staff or former staff of labor rights organizations were arrested. Among them are Wu Guijun, the former Diweixin worker and strike leader who formed the organzation "Xin Gong Yi" to provide legal consultation to workers faced with factory closure and to teach workers about their legal rights in order to negotiate with the factory; and the Chunfeng Labor Dispute Service Center's coordinator Zhang Zhiru, and former staff Jian Hui and Song Jiahui, who conduct legal outreach, consultation and safety trainings for workers.
 
 Crackdown period: 10 August 2018, 20 January 2019
 
-4. Labour-oriented independent media
+4 Labour-oriented independent media
 
 Arrestees Wei Zhili, Ke Chengbing and Yang Zhengjun are editors of the "iLabour" media platform and folllowed and supported Hunan pneumoconiosis workers' campaign for occupational disease compensation. Wuqiong Wenqian, who was arrested on her way to work, was the former chief editor of Groundbreaking. Earlier on, editors of the leftist website "Red Flag" were also arrested.
 
 Crackdown period: August 2018 to the present
 
-5. Social Workers
+5 Social Workers
 
 In Beijing, Guangzhou and Shenzhen, social workers serving migrant worker communities have been arrested. Currently they include Li Dajun, coordinator of Beijing's Lengquan Hope Community, which serves migrant workers and their children; Li Changjiang, coordinator of the Shenzhen's Qinghu Community School, which provides community services to migrant workers; Liang Zicun, a Tsinghua Post-Doctoratal researcher engaged in study of labor questions and social work with vocational school students; and Tong Feifei, of the Guangdong Mumian Social Work Service Center, which engages in youth development, women's health and community development work and also works heavily in migrant worker communities.
 
