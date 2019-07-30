@@ -39,3 +39,5 @@ According to Zheng, her husband had also been in touch with workers from central
 “I think it is a concerted effort to really clamp down on a broad range of civil society actors who are supporting legitimate worker protests,” he told AFP.
 
 “That, of course, is completely counterproductive,” he said. “It’s not going to stop workers from going out on protests or staging strikes or demonstrations — that still happens every day across the whole country.”
+
+<em>Reposted from Hong Kong Free Press: <https://www.hongkongfp.com/2019/03/21/police-detain-labour-activist-wei-zhili-southern-china-wife-says/></em>
