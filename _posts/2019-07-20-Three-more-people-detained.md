@@ -85,4 +85,4 @@ People also used the centre to share their concerns and mingle with others in a 
 
 Chan said the tight controls on labour organisations and NGOs was likely to continue in the coming months as the country’s leaders were worried about maintaining social stability on the approach to several sensitive dates, most notably the 30th anniversary of the 1989 Tiananmen democracy movement in June and the 70th anniversary of the founding of the People’s Republic of China in October.
 
-<em>Reposted from South China Morning Post: <<em>https://www.scmp.com/news/china/politics/article/3009903/three-more-people-detained-china-continues-crack-down-labour</em>
+<em>Reposted from Red Balloon Solidarity: <https://www.scmp.com/news/china/politics/article/3009903/three-more-people-detained-china-continues-crack-down-labour></em>
