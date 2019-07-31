@@ -5,7 +5,7 @@ date: 2019-03-22
 tags: news
 image: images/H1.jpg
 lang: en
-lang-ref: 2018-11-08-Chinese-labour-rights-activists-detained
+lang-ref: 2019-03-22-Chinese-labour-rights-activists-detained
 excerpt_separator: <!--more-->
 
 ---
@@ -47,4 +47,4 @@ Zheng said police used brute force to take her husband.
 She said Wei graduated from Guangzhou University with a degree in journalism. He became drawn into labour rights campaigning after he worked for an official newspaper for Chinese workers in Guangzhou.
 
 
-<em>Reposted from South China Morning Post: <https://www.scmp.com/news/china/politics/article/2172331/chinese-workers-say-silicosis-protest-was-broken-beatings-and></em>
+<em>Reposted from South China Morning Post: https://www.scmp.com/news/china/politics/article/3002732/chinese-labour-rights-activists-detained-authorities-try-shut></em>
