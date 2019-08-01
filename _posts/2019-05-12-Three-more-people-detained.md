@@ -5,7 +5,7 @@ date: 2019-05-12
 tags: news
 image: images/B1.jpg
 lang: en
-lang-ref: 2019-07-20-Three-more-people-detained
+lang-ref: 2019-05-12-Three-more-people-detained
 excerpt_separator: <!--more-->
 
 ---
