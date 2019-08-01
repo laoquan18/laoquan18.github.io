@@ -3,7 +3,7 @@ layout: post
 title: "Chinese Maoists join students in fight for workers’ rights at Jasic Technology"
 date: 2018-08-10
 tags: news
-image: images/separated.jpg
+image: images/chinese-maoists.jpg
 lang: en
 lang-ref: 2018-08-10-chinese-maoists-join-students
 excerpt_separator: <!--more-->
