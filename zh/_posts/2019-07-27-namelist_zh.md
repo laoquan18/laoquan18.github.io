@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 
 
 
-<h3>仍失联或被关押人士名单</h3>
+<h3>仍在押和失踪人士名单</h3>
 
 
 
@@ -70,7 +70,7 @@ excerpt_separator: <!--more-->
 
 
 
-<strong>失联</strong>
+<strong>失踪</strong>
 
 23 <a href="https://laoquan18.github.io/Fu-Changguo_zh/">付常国</a>，深圳劳工团体「打工者中心」职员，2018-8-10被刑拘，2019年1月被办案人员带走并失踪
 
@@ -144,7 +144,7 @@ excerpt_separator: <!--more-->
 
 
 
-<h3>传唤、抓捕及失联人士总名单</h3>
+<h3>被传唤、抓捕及失踪人士总名单</h3>
 
 1 <a href="https://laoquan18.github.io/Yu-Juncong_zh/">余浚聪</a>，佳士维权工人， 2018-7-27被刑拘，2018-9-3正式逮捕
 
