@@ -5,7 +5,7 @@ date: 2019-07-20
 tags: news-zh
 image: images/C1.png
 lang: zh
-lang-ref: 2019-01-23-佳士工潮余波？
+lang-ref: 2019-01-23-jiashigongchao
 excerpt_separator: <!--more-->
 
 ---
