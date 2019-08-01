@@ -2,10 +2,10 @@
 layout: post
 title: "京深穗3勞權人士同日失聯 學者：六四敏感期 官方加大打壓力度"
 date: 2019-05-10
-tags: news-zh
+tags: news-hk
 image: images/D1.jpg
-lang: zh
-lang-ref: 2019-05-10-京深穗3勞權人士同日失聯 學者：六四敏感期 官方加大打壓力度
+lang: hk
+lang-ref: 2019-05-10-jingshensui
 excerpt_separator: <!--more-->
 
 ---
@@ -28,4 +28,6 @@ excerpt_separator: <!--more-->
 
 香港大學社會學教授潘毅指出，今次涉事機構都較溫和，長期紮根基層社區、工業區，具關懷、公益性質，且是合法組織，與官方關係良好，接受境外資助亦是經過當局批准，不同於之前遭打壓者或多或少都有介入集體行動。潘毅表示，事件顯示公民社會收窄，當局為保證「敏感期」不出任何事加大打壓，但她擔心此舉會積累更多矛盾。
 
-<em>图文转自明報： <http://news.chilin.hk/hk/?job=body&sec=eJxbsmTDKwAGygLj&page=4&path=Q29udGVudF9OZXdzLmNmbT9DaGFubmVsPWNhJlBhdGg9MjAyMzA4OTEwMjA2L2NjYTEuY2Zt&pic=big&date=20190510></em>
+
+
+<em>圖文轉自明報： <https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/article/20190510/s00013/1557426263856/%E4%BA%AC%E6%B7%B1%E7%A9%973%E5%8B%9E%E6%AC%8A%E4%BA%BA%E5%A3%AB%E5%90%8C%E6%97%A5%E5%A4%B1%E8%81%AF-%E5%AD%B8%E8%80%85-%E5%85%AD%E5%9B%9B%E6%95%8F%E6%84%9F%E6%9C%9F-%E5%AE%98%E6%96%B9%E5%8A%A0%E5%A4%A7%E6%89%93%E5%A3%93%E5%8A%9B%E5%BA%A6></em>
