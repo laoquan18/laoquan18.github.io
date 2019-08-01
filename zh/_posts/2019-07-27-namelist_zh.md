@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "被传呼、抓捕及失踪人士名单"
+title: "被传唤、抓捕及失踪人士名单"
 date: 2019-07-27
 tags: [resources-zh, activists-zh]
 image: images/missing.jpg
