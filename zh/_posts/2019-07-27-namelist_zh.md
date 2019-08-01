@@ -30,9 +30,9 @@ excerpt_separator: <!--more-->
 
 5 <a href="https://laoquan18.github.io/Chun-Feng_zh/">张治儒</a>，春风劳动争议服务部创始人，2019-1-20被刑拘，2019-2-26正式逮捕
 
-6 <a href="https://laoquan18.github.io/Chun-Feng_zh/">简辉</a>，春风劳动争议服务部前职员，2019-1-20以被刑拘
+6 <a href="https://laoquan18.github.io/Chun-Feng_zh/">简辉</a>，春风劳动争议服务部前职员，2019-1-20以被刑拘，2019年2月正式逮捕
 
-7 <a href="https://laoquan18.github.io/Song-Jiahui_zh/">宋佳慧</a>，春风劳动争议服务部前职员，2019-1-20被刑拘
+7 <a href="https://laoquan18.github.io/Song-Jiahui_zh/">宋佳慧</a>，春风劳动争议服务部前职员，2019-1-20被刑拘，2019年2月正式逮捕
 
 8 <a href="https://laoquan18.github.io/He-Yuancheng_zh/">何远程</a>，劳维律师事务所前职员，劳权人士，2019-1-20被刑拘，2019-2-26正式逮捕
 
@@ -406,9 +406,9 @@ excerpt_separator: <!--more-->
 
 112 <a href="https://laoquan18.github.io/Chun-Feng_zh/">张治儒</a>，春风劳动争议服务部创始人，2019-1-20被刑拘，2019-2-26正式逮捕
 
-113 <a href="https://laoquan18.github.io/Chun-Feng_zh/">简辉</a>，春风劳动争议服务部前职员，2019-1-20以被刑拘
+113 <a href="https://laoquan18.github.io/Chun-Feng_zh/">简辉</a>，春风劳动争议服务部前职员，2019-1-20以被刑拘，2019年2月正式逮捕
 
-114 <a href="https://laoquan18.github.io/Song-Jiahui_zh/">宋佳慧</a>，春风劳动争议服务部前职员，2019-1-20被刑拘
+114 <a href="https://laoquan18.github.io/Song-Jiahui_zh/">宋佳慧</a>，春风劳动争议服务部前职员，2019-1-20被刑拘，2019年2月正式逮捕
 
 115 <a href="https://laoquan18.github.io/He-Yuancheng_zh/">何远程</a>，劳维律师事务所前职员，劳权人士，2019-1-20被刑拘，2019-2-26正式逮捕
 
