@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "传呼、抓捕及失踪人士名单"
+title: "被传呼、抓捕及失踪人士名单"
 date: 2019-07-27
 tags: [resources-zh, activists-zh]
 image: images/missing.jpg
@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 
 
 
-<h3>仍属于失联或被关押状态</h3>
+<h3>仍失联或被关押人士名单</h3>
 
 
 
