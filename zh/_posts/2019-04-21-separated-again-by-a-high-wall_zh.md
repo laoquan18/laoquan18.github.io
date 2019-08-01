@@ -2,7 +2,7 @@
 layout: post
 title: "因为看不得世间不公，我们再次被高墙分隔 | 大兔小危爱情故事"
 date: 2019-04-21
-tags: news
+tags: news-zh
 image: images/separated.jpg
 lang: zh
 lang-ref: 2019-04-21-separated-again-by-a-high-wall
