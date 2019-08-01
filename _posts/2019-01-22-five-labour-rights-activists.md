@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "At least five labour rights activists arrested across China"
-date: 2019-07-22
+date: 2019-01-22
 tags: news
 image: images/A1.jpg
 lang: en
-lang-ref: 2019-07-20-five-labour-rights-activists
+lang-ref: 2019-01-22-five-labour-rights-activists
 excerpt_separator: <!--more-->
 
 ---
