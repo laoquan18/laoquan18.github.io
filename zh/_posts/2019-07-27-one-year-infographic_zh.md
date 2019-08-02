@@ -118,22 +118,23 @@ excerpt_separator: <!--more-->
 
 <em>图文转自惟工新闻： <https://wknews.org/node/2000></em>
   
-<div class="col-md-6">
-    <div class="card border-0 mb-4 box-shadow">   
-    <a href="/namelist_zh/">
-    <div class="topfirstimage" style="background-image: url(https://laoquan18.github.io/images/missing.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
-    </a>
-    <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
-    <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="/namelist_zh/">被传唤、抓捕及失踪人士名单</a>
-    </h2>
-    <p class="excerpt">
-        2018年7月开始，中国开始了一轮持续一年多的对工运支持者的打压，设计到100多名工人、学生、NGO工作者甚至社工和基层工会干部。以下是截止2019年7月底的传唤、抓捕及失踪人士名单。
-    </p>
-    </div>
-    </div>
+
+<div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/namelist_zh/">被传唤、抓捕及失踪人士名单</a>
+	</h2>
+	<p class="excerpt">
+	   2018年7月开始，中国开始了一轮持续一年多的对工运支持者的打压，设计到100多名工人、学生、NGO工作者甚至社工和基层工会干部。以下是截止2019年7月底的传唤、抓捕及失踪人士名单。
+	</p>
 </div>
-
-
+{% if post.image %}
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/namelist_zh/">
+	<img class="w-100" src="https://laoquan18.github.io/images/missing.jpg">
+	</a>
+	</div>
+{% endif %}
+</div>
 
 
