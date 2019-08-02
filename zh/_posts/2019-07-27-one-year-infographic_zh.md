@@ -121,7 +121,7 @@ excerpt_separator: <!--more-->
 <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="/namelist_zh/">
-    <div class="topfirstimage" style="background-image: url(/images/missing.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+    <div class="topfirstimage" style="background-image: url(https://laoquan18.github.io/images/missing.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
