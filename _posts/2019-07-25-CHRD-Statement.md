@@ -2,7 +2,7 @@
 layout: post
 title: "CHRD-Statement: China Must Release Detained Labor Rights Advocates"
 date: 2019-07-25
-tags: [news]
+tags: [news, support]
 image: images/chrd-header.jpg
 lang: en
 lang-ref: 2019-07-25-CHRD-Statement
