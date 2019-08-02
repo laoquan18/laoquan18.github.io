@@ -118,11 +118,10 @@ excerpt_separator: <!--more-->
 
 <em>图文转自惟工新闻： <https://wknews.org/node/2000></em>
   
-
 <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="/namelist_zh/">
-    <div class="topfirstimage" style="background-image: url(images/missing.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+    <div class="topfirstimage" style="background-image: url(/images/missing.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
