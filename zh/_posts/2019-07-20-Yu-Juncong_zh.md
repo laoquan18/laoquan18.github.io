@@ -34,7 +34,7 @@ excerpt_separator: <!--more-->
 
 这一年，浚聪20岁。
 
-<div style="text-align:center"><img src="/images/yujuncong1.jpg" width="90%"/></div><
+<div style="text-align:center"><img src="/images/yujuncong1.jpg" width="90%"/></div>
 
 后来，我们碰到了好多这种事情。当自己受到欺负，浚聪绝不会忍气吞声，而别人受到欺负的时候，他也一定会挺身而出！这次被浚聪被佳士针对，就是因为他批评了佳士强迫已经非常劳累的工人跟着老板徒步这种混账行为。有人说，浚聪是“专门闹事”的，我就想不明白了，我们受了欺负，他带着大家维护权益和尊严，怎么就是闹事了呢！
 
