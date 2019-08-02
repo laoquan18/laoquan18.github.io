@@ -3,7 +3,7 @@ layout: post
 title: "无国界记者组织致信广东省检察长要求释放三名中国记者"
 date: 2019-08-02
 tags: [news-zh, support-zh]
-image: images/rsfletter.jpg
+image: images/rsfletter.png
 lang: zh
 lang-ref: 2019-08-02-rsfletter
 excerpt_separator: <!--more-->
