@@ -19,19 +19,31 @@ A Letter from a regional OHS network to call on the release of Labour activists 
 To:
 
 Song Yiya, Director of Shenzhen City Pingshan District Security Bureau
+
 Wang Shiangyang, Prosecuter General of Pingshan District Shenzhen City People’s Procuratorate
+
 Xu Wenhai, Director of Shenzhen City Security Bureau
+
 He xun, Prosecuter General of Shenzhen City People’s Procuratorate
+
 Li Chunsheng, Director of Guangdong Province Security Bureau
+
 Lin Yiying, Prosecuter General of Guangdong Province People’s Procuratorate
+
 Wang Dongming, Chairman, All-China Federation of Trade Union
 
 宋逸陽，坪山區公安局局長
+
 王向陽，坪山區檢察院檢察長
+
 徐文海，深圳市公安局局長
+
 何勳，深圳市人民檢察院檢察長
+
 李春生，廣東省公安廳廳長
+
 林貽影，廣東省人民檢察院檢察長
+
 王東明，全國總工會主席
 
 1st August 2019
