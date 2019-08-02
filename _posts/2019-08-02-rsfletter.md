@@ -2,9 +2,9 @@
 layout: post
 title: "In a letter to Guangdong's Chief Prosecutor, RSF demands release of three Chinese journalists"
 date: 2019-08-02
-tags: [news-zht, support-zht]
+tags: [news, support]
 image: images/rsfletter.jpg
-lang: zht
+lang: en
 lang-ref: 2019-08-02-rsfletter
 excerpt_separator: <!--more-->
 
