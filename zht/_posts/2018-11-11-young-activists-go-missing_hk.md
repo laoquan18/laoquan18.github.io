@@ -2,9 +2,9 @@
 layout: post
 title: "中國多名倡導工人權利的年輕活動人士失蹤"
 date: 2018-11-11
-tags: news-hk
+tags: news-zht
 image: images/zhangshengye.jpg
-lang: hk
+lang: zht
 lang-ref: 2018-11-11-young-activists-go-missing
 excerpt_separator: <!--more-->
 
