@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "杨郑君"
+title: "楊鄭君"
 date: 2019-07-20
 tags: activists-zht
 image: images/yangzhengjun.png
