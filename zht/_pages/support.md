@@ -2,7 +2,7 @@
 title: "聲援行動"
 lang: zht
 lang-ref: support
-permalink: "/support_zht.html"
+permalink: "/support-zht.html"
 ---
 
 <div class="container">
