@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "余浚聪"
+title: "余浚聰"
 date: 2019-07-20
 tags: activists-zht
 image: images/yujuncong.jpg
