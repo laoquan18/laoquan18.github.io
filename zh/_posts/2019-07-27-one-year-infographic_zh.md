@@ -120,13 +120,13 @@ excerpt_separator: <!--more-->
   
   
   
-<h3>自2018年7月27日被传呼、抓捕或失踪人士名单</h3>
+<h3>被传唤、抓捕或失踪人士名单</h3>
 
-1 <a href="https://laoquan18.github.io/Yu-Juncong_zh/">余浚聪</a>，佳士维权工人， 2018-7-27被刑拘
+1 <a href="https://laoquan18.github.io/Yu-Juncong_zh/">余浚聪</a>，佳士维权工人， 2018-7-27被刑拘，2019-9-3正式逮捕
 
-2 <a href="https://laoquan18.github.io/Mi-Jiuping_zh/">米久平</a>，佳士维权工人，2018-7-27被刑拘
+2 <a href="https://laoquan18.github.io/Mi-Jiuping_zh/">米久平</a>，佳士维权工人，2018-7-27被刑拘，2019-9-3正式逮捕
 
-3 <a href="https://laoquan18.github.io/Liu-Penghua_zh/">刘鹏华</a>，佳士维权工人， 2018-7-27被刑拘
+3 <a href="https://laoquan18.github.io/Liu-Penghua_zh/">刘鹏华</a>，佳士维权工人， 2018-7-27被刑拘，2019-9-3正式逮捕
 
 4 宋姚，佳士维权工人， 2018-7-27被刑拘
 
@@ -166,7 +166,7 @@ excerpt_separator: <!--more-->
 
 22 张泽英，工人，建会工人支持者，2018-7-27被刑拘
 
-23 <a href="https://laoquan18.github.io/Li-Zhan_zh/">李展</a>，工人，建会工人支持者，2018-7-27被刑拘
+23 <a href="https://laoquan18.github.io/Li-Zhan_zh/">李展</a>，工人，建会工人支持者，2018-7-27被刑拘，2019-9-3正式逮捕
 
 24 张勇，工人，建会工人支持者，2018-7-27被刑拘
 
@@ -182,7 +182,7 @@ excerpt_separator: <!--more-->
 
 30 胡开巧，学生，建会工人支持者，2018-7-27被刑拘
 
-31 <a href="https://laoquan18.github.io/Fu-Changguo_zh/">付常国</a>，深圳劳工团体「打工者中心」职员，2018-8-10被刑拘
+31 <a href="https://laoquan18.github.io/Fu-Changguo_zh/">付常国</a>，深圳劳工团体「打工者中心」职员，2018-8-10被刑拘，2019-1-26变更指定居所监视居住
 
 32 <a href="https://laoquan18.github.io/Shen-Mengyu_zh/">沈梦雨</a>，中山大学毕业生，广州日宏厂工人及民选工会谈判代表，佳士声援团成员，2018-8-11被失踪
 
@@ -374,21 +374,21 @@ excerpt_separator: <!--more-->
 
 109 催志阳，南京理工大学毕业生，2019-1-3被失踪
 
-（再次骚扰）<a href="https://laoquan18.github.io/Yang-Zhengjun_zh/">杨郑君</a>，北京航空航天大学毕业生，工人新媒体新生代编辑，2019-1-8被刑拘
+（再次骚扰）<a href="https://laoquan18.github.io/Yang-Zhengjun_zh/">杨郑君</a>，北京航空航天大学毕业生，工人新媒体新生代编辑，2019-1-8被刑拘，2019-2-6变更指定居所监视居住
 
 110 王梦洁，北京大学医学部学生，佳士支持者，2019-1-17失联
 
 111 王纪傲，人民大学保安，2019-1-18失联
 
-112 <a href="https://laoquan18.github.io/Chun-Feng_zh/">张治儒</a>，春风劳动争议服务部创始人，2019-1-20被刑拘
+112 <a href="https://laoquan18.github.io/Chun-Feng_zh/">张治儒</a>，春风劳动争议服务部创始人，2019-1-20被刑拘，2019-2-26正式逮捕
 
-113 <a href="https://laoquan18.github.io/Chun-Feng_zh/">简辉</a>，春风劳动争议服务部前职员，2019-1-20以被刑拘
+113 <a href="https://laoquan18.github.io/Chun-Feng_zh/">简辉</a>，春风劳动争议服务部前职员，2019-1-20以被刑拘，2019年2月正式逮捕
 
-114 <a href="https://laoquan18.github.io/Song-Jiahui_zh/">宋佳慧</a>，春风劳动争议服务部前职员，2019-1-20被刑拘
+114 <a href="https://laoquan18.github.io/Song-Jiahui_zh/">宋佳慧</a>，春风劳动争议服务部前职员，2019-1-20被刑拘，2019年2月正式逮捕
 
-115 <a href="https://laoquan18.github.io/He-Yuancheng_zh/">何远程</a>，劳维律师事务所前职员，劳权人士，2019-1-20被刑拘
+115 <a href="https://laoquan18.github.io/He-Yuancheng_zh/">何远程</a>，劳维律师事务所前职员，劳权人士，2019-1-20被刑拘，2019-2-26正式逮捕
 
-116 <a href="https://laoquan18.github.io/Wu-Guijun_zh/">吴贵军</a>，劳权人士，2019-1-20被刑拘
+116 <a href="https://laoquan18.github.io/Wu-Guijun_zh/">吴贵军</a>，劳权人士，2019-1-20被刑拘，2019-2-27正式逮捕
 
 （再次骚扰） 严梓豪，中国人民大学学生，佳士声援团成员，2019-1-21被捕
 
@@ -414,9 +414,9 @@ excerpt_separator: <!--more-->
 
 124 宣弘，学生，2019-3-4 被失踪
 
-125 <a href="https://laoquan18.github.io/Wei-Zhili_zh/">危志立</a>，工人媒体「新生代」编辑，2019-3-20被刑拘
+125 <a href="https://laoquan18.github.io/Wei-Zhili_zh/">危志立</a>，工人媒体「新生代」编辑，2019-3-20被刑拘，2019-4-19变更指定居所监视居住
 
-126 <a href="https://laoquan18.github.io/Ke-Chengbing_zh/">柯成兵</a>，工人媒体「新生代」编辑，2019-3-20被刑拘
+126 <a href="https://laoquan18.github.io/Ke-Chengbing_zh/">柯成兵</a>，工人媒体「新生代」编辑，2019-3-20被刑拘，2019-4-19变更指定居所监视居住
 
 127 柴晓明，左翼网站「红色参考」编辑，北京大学马克思主义学院前讲师，2019-3-21被指定居所监视居住
 
