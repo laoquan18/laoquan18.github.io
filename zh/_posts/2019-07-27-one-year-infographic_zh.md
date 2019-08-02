@@ -80,7 +80,7 @@ excerpt_separator: <!--more-->
 
 由爆发至今的一年间，中国内地警方展开了全国性的拘捕行动。据统计，直接或间接与佳士事件相关的被捕者达110人以上，当中53人仍在拘留当中。从每次拘捕行动的时间及对象，能看出内地警方的行动皆是有计划、有组织、有明确目标。
 
-<div style="text-align:center"><img src="/images/infographic1-5.jpg" width="90%"/></div>
+<div style="text-align:center"><img src="/images/infographic1-5.png" width="90%"/></div>
 
 <strong>第一波拘捕：即时压制示威行动</strong>
 
@@ -90,13 +90,13 @@ excerpt_separator: <!--more-->
 
 其后，来自全国各地的大学生及支援人士组成声援团，到派出所外要求放人。至8月24日，这群声援者亦被防暴警员闯入住处清场，共50人被捕，当中4人仍在囚。这段时期的搜捕，显然是以即时压制示威行动为目标。
 
-<div style="text-align:center"><img src="/images/infographic1-6.jpg" width="90%"/></div>
+<div style="text-align:center"><img src="/images/infographic1-6.png" width="90%"/></div>
 
 <strong>第三波拘捕：秋后算帐</strong>
 
 拘捕行动并未停在最初拘捕的一部分示威者身上，曾支持佳士工人维权的人士在数个月后即开始遭清算。9月和10月继续有零散的抓捕，而11月，广东省警方动员到广州、北京、上海、武汉、深圳等地，强行闯入18名曾支持佳士示威的人士家中，并将其拘捕。被捕人士包括刚从大学毕业的学生，亦有来自深圳「青鹰社工中心」的职员。被捕者当中，部分在被强行带走时遭暴力对待，甚至部分学生是被没表明警察身分的人带走，至家人收到警方通知才确认是被拘捕。据目击者忆述，其中一名被捕者张圣业是被超过10名黑依人殴打并强行带上车。
 
-<div style="text-align:center"><img src="/images/infographic1-7.jpg" width="90%"/></div>
+<div style="text-align:center"><img src="/images/infographic1-7.png" width="90%"/></div>
 
 <strong>第四波拘捕：警方镇压扩展至校园内</strong>
 
@@ -108,7 +108,7 @@ excerpt_separator: <!--more-->
 
 至今，此13名劳工团体及社工机构人士皆未获释。从2019年初开始的拘捕行动可见，佳士事件引发的已不单是警方秋后算帐的拘捕行动，一般社工机构及劳权人士皆成为严防的对象。
 
-<div style="text-align:center"><img src="/images/infographic1-8.jpg" width="90%"/></div>
+<div style="text-align:center"><img src="/images/infographic1-8.png" width="90%"/></div>
 
 <strong>结语</strong>
 
