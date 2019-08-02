@@ -2,9 +2,9 @@
 layout: post
 title: "深圳佳士工人维权：左翼青年与政治诉求"
 date: 2018-08-16
-tags: news-hk
+tags: news-zht
 image: images/shenzhenjiashi.jpg
-lang: hk
+lang: zht
 lang-ref: 2018-08-16-shenzhenjiashi
 excerpt_separator: <!--more-->
 
