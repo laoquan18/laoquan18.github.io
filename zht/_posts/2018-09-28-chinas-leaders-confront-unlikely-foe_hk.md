@@ -2,9 +2,9 @@
 layout: post
 title: "當愛黨的青年走上街頭"
 date: 2018-09-28
-tags: news-hk
+tags: news-zht
 image: images/chinas-student-activists.jpg
-lang: hk
+lang: zht
 lang-ref: 2018-09-28-chinas-leaders-confront-unlikely-foe
 excerpt_separator: <!--more-->
 
