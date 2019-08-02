@@ -2,9 +2,9 @@
 layout: post
 title: "中國當局被指強迫學生活動人士觀看認罪影片"
 date: 2019-01-21
-tags: news-hk
+tags: news-zht
 image: images/chinausingtapedconfessions.jpg
-lang: hk
+lang: zht
 lang-ref: 2019-01-21-china-using-taped-confessions
 excerpt_separator: <!--more-->
 
