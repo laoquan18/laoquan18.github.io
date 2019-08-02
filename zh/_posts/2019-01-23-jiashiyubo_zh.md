@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "佳士工潮余波？深圳5名工运份子被拘　部份被控扰乱社会秩序"
-date: 2019-07-20
+date: 2019-01-23
 tags: news-zh
-image: images/chinas-student-activists.jpg
+image: images/gongyunwuren.jpg
 lang: zh
-lang-ref: 2019-01-23-jiashigongchao
+lang-ref: 2019-01-23-jiashiyubo
 excerpt_separator: <!--more-->
 
 ---
