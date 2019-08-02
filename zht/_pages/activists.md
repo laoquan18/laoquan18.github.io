@@ -1,8 +1,8 @@
 ---
 title: "2018-2019年受打壓工運人士"
-lang: hk
+lang: zht
 lang-ref: activists
-permalink: "/activists-hk.html"
+permalink: "/activists-zht.html"
 ---
 
 <div class="container">
@@ -10,7 +10,7 @@ permalink: "/activists-hk.html"
         <div class="col-md-8">
             
             
-        {% for post in site.tags.activists-hk %}
+        {% for post in site.tags.activists-zht %}
         {% if post.title != null %}
           {% if group == null or group == post.group %}
          
