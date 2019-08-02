@@ -2,9 +2,9 @@
 layout: post
 title: "京深穗3勞權人士同日失聯 學者：六四敏感期 官方加大打壓力度"
 date: 2019-05-10
-tags: news-hk
+tags: news-zht
 image: images/D1.jpg
-lang: hk
+lang: zht
 lang-ref: 2019-05-10-jingshensui
 excerpt_separator: <!--more-->
 
