@@ -118,6 +118,21 @@ excerpt_separator: <!--more-->
 
 <em>圖文轉自惟工新聞： <https://wknews.org/node/2000></em>
   
-  
-  
-<h3><a href="/namelist_zht/">被傳喚，抓捕及失蹤人士名單</a></h3>
+
+<div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/namelist_zh/">被傳喚，抓捕及失蹤人士名單</a>
+	</h2>
+	<p class="excerpt">
+	   2018年7月開始，中國開始了一輪持續一年多的對工運支持者的打壓，設計到100多名工人、學生、NGO工作者甚至社工和基層工會幹部。以下是截止2019年7月底的傳喚、抓捕及失蹤人士名單。
+	</p>
+</div>
+{% if post.image %}
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/namelist_zh/">
+	<img class="w-100" src="https://laoquan18.github.io/images/missing.jpg">
+	</a>
+	</div>
+{% endif %}
+</div>
