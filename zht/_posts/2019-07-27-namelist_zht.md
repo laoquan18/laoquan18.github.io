@@ -2,9 +2,9 @@
 layout: post
 title: "被傳喚、抓捕或失蹤人士名單"
 date: 2019-07-27
-tags: [resources-zh, activists-zh]
+tags: [resources-zht, activists-zht]
 image: images/missing.jpg
-lang: zh
+lang: zht
 lang-ref: 2019-07-27-namelist
 excerpt_separator: <!--more-->
 
