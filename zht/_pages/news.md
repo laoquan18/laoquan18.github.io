@@ -1,8 +1,8 @@
 ---
 title: "快訊"
-lang: hk
+lang: zht
 lang-ref: news
-permalink: "/news-hk.html"
+permalink: "/news-zht.html"
 ---
 
 <div class="container">
@@ -10,7 +10,7 @@ permalink: "/news-hk.html"
         <div class="col-md-8">
 
             
-        {% for post in site.tags.news-hk %}
+        {% for post in site.tags.news-zht %}
         {% if post.title != null %}
           {% if group == null or group == post.group %}
          
