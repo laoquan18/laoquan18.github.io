@@ -3,7 +3,7 @@ layout: post
 title: "This Woman Is Running To Save The Love Of Her Life"
 date: 2019-06-07
 tags: news
-image: images/J1.jpg
+image: images/J1.JPG
 lang: en
 lang-ref: 2019-06-17-This-Woman-Is-Running-To-Save-The-Love-Of-Her-Life
 excerpt_separator: <!--more-->
@@ -26,7 +26,7 @@ That was when she began to run. Over email, Zheng told BuzzFeed News that she wa
 
 “He is detained under scrutiny, which means we don’t know where he is,” she said. “His lawyer is also unable to meet him — no human rights activists under scrutiny have ever met their lawyers, according to my knowledge.”
 
-<div style="text-align:center"><img src="/images/J2.jpg" width="90%"/></div>
+<div style="text-align:center"><img src="/images/J2.JPG" width="90%"/></div>
 
 Zheng’s political and personal lives were always closely intertwined but became more so when she met Wei at Guangzhou’s Sun Yat-sen University in 2013.
 
@@ -52,7 +52,7 @@ Zheng wakes up at 9 every morning, stretches, runs, stretches some more, and doe
 
 When she first began to run, Zheng said she was surprised: “I felt better. Focusing on my own body actually feels good. But at the same time, when I run I recall the good days with Wei, so I cry and run at the same time.”
 
-<div style="text-align:center"><img src="/images/J3.jpg" width="90%"/></div>
+<div style="text-align:center"><img src="/images/J3.JPG" width="90%"/></div>
 
 Zheng’s 37-day detention in cell number 1107 caused her years of PTSD.
 
