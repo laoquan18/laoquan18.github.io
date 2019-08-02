@@ -2,7 +2,7 @@
 title: "声援行动"
 lang: zh
 lang-ref: support
-permalink: "/support.html"
+permalink: "/support-zh.html"
 ---
 
 <div class="container">
