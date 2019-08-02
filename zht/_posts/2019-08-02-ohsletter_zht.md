@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "区域性职安康网络要求释放新生代三子"
+title: "區域性職安康網路要求釋放新生代三子"
 date: 2019-08-02
 tags: [news-zht, support-zht]
 image: images/ohsletter.jpg
