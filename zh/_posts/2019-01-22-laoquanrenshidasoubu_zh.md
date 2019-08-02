@@ -3,7 +3,7 @@ layout: post
 title: "劳权人士大搜捕！吴贵军遭刑事拘留　「春风」职员被捕"
 date: 2019-01-22
 tags: news-zh
-image: images/dasoubu.jpg
+image: images/dasoubu.png
 lang: zh
 lang-ref: 2019-01-22-laoquanrenshidasoubu
 excerpt_separator: <!--more-->
