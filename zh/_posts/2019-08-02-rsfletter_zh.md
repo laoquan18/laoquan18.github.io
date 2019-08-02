@@ -22,6 +22,6 @@ excerpt_separator: <!--more-->
 
 <div style="text-align:center"><img src="/images/rsfletter-zh.jpg" width="90%"/></div>
 
-法语、简体中文及繁体中文版本可在无国界记者组织网站下载。
+英文、法语及繁体中文版本可在无国界记者组织网站下载。
 
 <em>图文转自无国界记者组织: <https://rsf.org/en/news/letter-guangdongs-chief-prosecutor-rsf-demands-release-three-chinese-journalists></em>
