@@ -10,11 +10,11 @@ excerpt_separator: <!--more-->
 
 ---
 
-今天一個區域性職業健康和安全網絡寄出了聯名信給相關部門要求釋放三位勞權人士楊鄭君、危志立和柯成兵。楊、危與柯三位去年因聲援湖南塵肺病工人的維權行動而被捕。
+<em>今天一個區域性職業健康和安全網絡寄出了聯名信給相關部門要求釋放三位勞權人士楊鄭君、危志立和柯成兵。楊、危與柯三位去年因聲援湖南塵肺病工人的維權行動而被捕。</em>
 
-A Letter from a regional OHS network to call on the release of Labour activists YANG Zhengjun, WEI Zhili, and KE Chengbing
+<strong>A Letter from a regional OHS network to call on the release of Labour activists YANG Zhengjun, WEI Zhili, and KE Chengbing</strong>
 
-區域性職業健康和安全網絡要求釋放勞權行動者楊鄭君、危志立、柯成兵
+<strong>區域性職業健康和安全網絡要求釋放勞權行動者楊鄭君、危志立、柯成兵</strong>
 
 To:
 
