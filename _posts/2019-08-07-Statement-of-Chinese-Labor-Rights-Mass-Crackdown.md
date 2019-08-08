@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Statement of "18-19 Chinese Labor Rights Mass Crackdown” from Various Circles in Hong Kong"
+title: "Statement of '18-19 Chinese Labor Rights Mass Crackdown' from Various Circles in Hong Kong"
 date: 2019-08-07
 tags: [news, support]
 image: images/Statement.png
