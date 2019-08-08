@@ -5,7 +5,7 @@ date: 2019-08-07
 tags: [news, support]
 image: images/Statement.png
 lang: en
-lang-ref: 2019-08-07-Statement-of-"18-19-Chinese-Labor-Rights-Mass-Crackdown”-from-Various-Circles-in-Hong-Kong
+lang-ref: 2019-08-07-Statement-of-Chinese-Labor-Rights-Mass-Crackdown
 excerpt_separator: <!--more-->
 
 ---
