@@ -2,7 +2,7 @@
 layout: post
 title: "小危正式逮捕，包子、老柯情况不明，律师申请会见遭拒"
 date: 2019-08-10
-tags: [news-zh, support-zh]
+tags: [news-zh]
 image: images/xsd4.png
 lang: zh
 lang-ref: 2019-08-10-formalarrest
