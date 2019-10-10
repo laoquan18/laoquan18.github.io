@@ -2,7 +2,7 @@
 layout: post
 title: "聯合國工作組、特別報告員就新生代案子致信中國政府"
 date: 2019-10-10
-tags: [news]
+tags: [news-zht]
 image: images/unletter.jpg
 lang: zht
 lang-ref: 2019-10-10-unletter
