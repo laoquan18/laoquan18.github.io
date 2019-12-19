@@ -29,7 +29,7 @@ The lives of Hunan’s drillers trace China’s diverging realities.
 
 One story is reflected in the gleaming skylines they built: the backdrop for a prosperous middle class of 400 million people who live in China’s cities and power its economy. Another story is framed by struggle: a vast, rural underclass that still toils in hazardous conditions, lacking documentation or means to seek redress except through confrontation with the government.
 
-<div style="text-align:center"><img src="/images/CA_2.jpg" width="90%"/></div>
+<div style="text-align:center"><img src="/images/CA_2.JPG" width="90%"/></div>
 <br>Xu Chunlin first traveled to Shenzhen in 1989 and later introduced other Hunan villagers to construction jobs there. He made a relative fortune and lives in a three-story brick home with ornate copper doors, but he has paid a price: Four brothers died of pneumoconiosis, and he is terminally ill. (Gerry Shih/The Washington Post)<br>
 
 Forty years after China shifted away from its socialist system — and the promise of cradle-to-grave care for workers — the country is settling hard questions accumulated in the rush to modernity.
@@ -54,7 +54,7 @@ Steep sandstone ravines carve across Sangzhi county, a part of Hunan province wi
 
 “Everyone builds a big house and then there’s no one to live in it,” Gu Zhongping, a former driller, said as he drove along, pointing out homes with a former Shenzhen worker dying or dead.
 
-<div style="text-align:center"><img src="/images/CA_3.jpg" width="90%"/></div>
+<div style="text-align:center"><img src="/images/CA_3.JPG" width="90%"/></div>
 <br>Money made in Shenzhen allowed families in Leiyang county to build bigger and bigger homes. (Gerry Shih/The Washington Post)<br>
 
 Gu Hejian, in the house with red posters for his son’s wedding, doesn’t expect to live much longer. Zhong Yichuan, who lived behind a corner store, died two years ago. Wang Zhaogang died in April and was buried by 10 ill workers counting the days themselves.
@@ -71,7 +71,7 @@ Chinese officials, who are drawing up new plans to study the crisis, say 23 mill
 
 Workers who inhale dust and tiny mineral crystals found in rock and sand do not immediately feel symptoms. But over months, sometimes decades, the lodged particles do devastating damage.
 
-<div style="text-align:center"><img src="/images/CA_4.jpg" width="90%"/></div>
+<div style="text-align:center"><img src="/images/CA_4.JPG" width="90%"/></div>
 
 Walking, even talking, becomes difficult. Lying flat creates the sensation of suffocation, so most patients sleep sitting next to a small oxygen machine. In the latter stages, they suffer heavy wheezing, steep weight loss, frequent bouts of colds and fevers. Pneumonia and tuberculosis can easily turn fatal. Sooner or later, the lungs simply give out.
 
@@ -134,10 +134,10 @@ As it embraced free enterprise, the ruling Communist Party neglected workers fro
 
 Despite a 2008 law requiring all employers to offer written contracts, just 35 percent of migrant workers signed them in 2016 — a number that is falling, according to China’s National Statistics Bureau, which has stopped releasing data. A 2014 nationwide survey by Love Save Pneumoconiosis found that just 7 percent of workers with the disease reported ever signing a contract.
 
-<div style="text-align:center"><img src="/images/CA_6.jpg" width="90%"/></div>
+<div style="text-align:center"><img src="/images/CA_6.JPG" width="90%"/></div>
 <br>Wang Quanlong was one of about 80 sick drillers who threatened to commit suicide in 2018 if Shenzhen authorities did not pay compensation for pneumoconiosis. (Gerry Shih/The Washington Post)<br>
 
-<div style="text-align:center"><img src="/images/CA_7.jpg" width="90%"/></div>
+<div style="text-align:center"><img src="/images/CA_7.JPG" width="90%"/></div>
 <br>Wang Quanlong’s home is filled with stacks of medicines and oxygen bags to relieve symptoms of pneumoconiosis. The disease is incurable and often leads to a slow, painful death. (Gerry Shih/The Washington Post)<br>
 
 The construction industry — a sector that accounts for a quarter of all work fatalities — is known for relying on subcontractors called baogongtou who hire workers informally, said Eli Friedman, a China labor expert at Cornell University.
@@ -178,7 +178,7 @@ In the absence of robust courts, China often settles labor disputes this way, sa
 
 Clashes between the Hunan petitioners and authorities have continued. Dozens of workers hoping to return to Shenzhen or Beijing to seek more money have been repeatedly intercepted and, on at least one occasion, roughed up by police, petitioners said.
 
-<div style="text-align:center"><img src="/images/CA_8.jpg" width="90%"/></div>
+<div style="text-align:center"><img src="/images/CA_8.JPG" width="90%"/></div>
 <br>For years, men have left Leiyang county in central China’s Hunan province to work in the border metropolis of Shenzhen. (Gerry Shih/The Washington Post)<br>
 
 Stricken villages have become closely surveilled. During one trip to Sangzhi county, a Washington Post reporter was surrounded by plainclothes security officials and forced to leave the province. Authorities harassed villagers who were interviewed during another visit.
