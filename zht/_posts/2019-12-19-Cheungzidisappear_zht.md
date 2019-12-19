@@ -2,7 +2,7 @@
 layout: post
 title: "為中國勞權發聲　中國勞動研究者及學生「被消失」"
 date: 2019-12-19
-tags: news_zht
+tags: news-zht
 image: images/CC_1.jpg
 lang: zht
 lang-ref: 2019-12-19-Cheungzidisappear
