@@ -5,7 +5,7 @@ date: 2019-12-19
 tags: activists-zht
 image: images/CB_1.png
 lang: zht
-lang-ref: 2018-12-19-Cheungzi
+lang-ref: 2019-12-19-Cheungzi
 excerpt_separator: <!--more-->
 
 ---
