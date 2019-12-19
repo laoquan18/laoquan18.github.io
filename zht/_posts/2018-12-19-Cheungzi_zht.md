@@ -2,7 +2,7 @@
 layout: post
 title: "祥子：起而行之，一個獨立公益人的成長"
 date: 2018-12-19
-tags: news-zht
+tags: activists_zht
 image: images/CB_1.png
 lang: zht
 lang-ref: 2018-12-19-Cheungzi
